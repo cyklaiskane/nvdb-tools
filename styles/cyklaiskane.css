@@ -1,0 +1,161 @@
+* {
+  stroke: #303030;
+  stroke-width: 0.5px;
+}
+
+[grade_type = 1] {
+  z-index: 100;
+}
+
+[grade_type = 2] {
+  z-index: -1;
+}
+
+[road_type = 4] {
+  stroke: #808080;
+  stroke-dasharray: 1 2;
+}
+
+[road_type = 8] {
+  stroke: #425AF3;
+  stroke-width: 3px;
+  stroke-dasharray: 10 10;
+  stroke-opacity: 0.1;
+}
+
+
+[road_type = 2] {
+  stroke: #173C66;
+  stroke-dasharray: 5 2;
+
+  [gcm_type = 2] {
+    stroke-dasharray: 2 2;
+  };
+
+  [surface = 2] {
+    stroke: #8A5435;
+  };
+}
+
+[road_type = 1] {
+  [ts_class = 0] {
+    stroke: #425AF3;
+  };
+  [ts_class = 1] {
+    stroke: #70A3F3;
+  };
+  [ts_class = 2] {
+    stroke: #DD898F;
+  };
+  [ts_class = 3 ] {
+    stroke: #C52217;
+  };
+  [ts_class = 4 ] {
+    stroke: #200000;
+  };
+  [surface = 2] {
+    stroke: #8A5435;
+  };
+/*  [surface = 2] {
+    [ts_class = 0] {
+      stroke: #8A5435, #425AF3;
+    };
+    [ts_class = 1] {
+      stroke: #8A5435, #70A3F3;
+    };
+    [ts_class = 2] {
+      stroke: #8A5435, #DD898F;
+    };
+    [ts_class > 2] {
+      stroke: #8A5435, #C52217;
+    };
+    [ts_class = -1] {
+      stroke: #8A5435, #173C66;
+    };
+    stroke-dasharray: 8 0, 4 4;
+  }*/
+}
+
+[@sd <= 20k] {
+  stroke-width: 2.5px;
+  [road_class > 6] {
+    stroke-width: 1.5px;
+  };
+  [road_class < 4] {
+    stroke-width: 3px;
+  };
+  [road_type > 1] {
+    stroke-width: 1.2px;
+  }
+}
+
+[@sd > 20k][@sd <= 40k] {
+  stroke-width: 1.5px;
+  [road_class > 6] {
+    stroke-width: 1px;
+  };
+  [road_class < 4] {
+    stroke-width: 2px;
+  };
+  [road_type > 1] {
+    stroke-width: 0.8px;
+  }
+}
+
+[@sd > 40k][@sd <= 200k] {
+  stroke-width: 1px;
+  [road_class > 6] {
+    stroke-width: 0.5px;
+  };
+  [road_class < 4] {
+    stroke-width: 1.5px;
+  };
+  [road_type > 1] {
+    stroke-width: 0.4px;
+  }
+}
+
+
+[@sd > 200k][@sd <= 500k] {
+  stroke-width: 0.6px;
+  [road_class > 6] {
+    stroke-width: 0.3px;
+  };
+  [road_class < 4] {
+    stroke-width: 1px;
+  };
+  [road_type > 1] {
+    stroke-width: 0;
+  }
+}
+
+[@sd > 500k] {
+  stroke-width: 0.4px;
+  [road_class > 6] {
+    stroke-width: 0;
+  };
+  [road_class < 4] {
+    stroke-width: 0.8px;
+  };
+  [road_type > 1] {
+    stroke-width: 0;
+  }
+}
+
+/*
+#333333||1
+#8A5435||1
+#173C66|-1|2
+#8A5435|-1|2
+#173C66|-1|4
+#8A5435|-1|4
+#425AF3|0|1
+#8A5435|0|1
+#70A3F3|1|1
+#8A5435|1|1
+#70A3F3|1|
+#DD898F|2|1
+#8A5435|2|1
+#C52217|3|1
+#8A5435|3|1
+*/

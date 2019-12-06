@@ -1,0 +1,89 @@
+@mode 'Flat';
+
+/* @title Saknar TS-klass */
+[ts_class IS NULL] {
+  stroke: #000000;
+}
+
+/* @title Tunnel och bro 1 */
+[grade_type IS NOT NULL][ts_class < 3] {
+  stroke: #404040;
+  stroke-width: 0.5px;
+  stroke-offset: 3;
+  z-index: -1;
+}
+
+/* @title Tunnel och bro 2 */
+[grade_type IS NOT NULL][ts_class < 3] {
+  stroke: #404040;
+  stroke-width: 0.5px;
+  stroke-offset: -3;
+  z-index: -1;
+}
+
+
+/* @title Färjeled */
+[road_type = 8] {
+  stroke: #425AF3;
+  stroke-width: 3px;
+  stroke-dasharray: 10 10;
+  stroke-opacity: 0.1;
+}
+
+/* @title Gångbana */
+[road_type = 4] {
+  stroke: #808080;
+  stroke-width: 0.5px;
+  stroke-dasharray: 1 2;
+}
+
+[road_type = 2] {
+  /* @title Cykelväg */
+  [gcm_type IS NULL], [gcm_type <> 2] {
+    stroke: #173C66;
+    stroke-width: 0.5px;
+    stroke-dasharray: 5 2;
+
+    /* @title Cykelväg, grus */
+    [surface = 2] {
+      stroke: #8A5435;
+    }
+  };
+
+  /* @title Cykelfält */
+  [gcm_type = 2] {
+    stroke: #173C66;
+    stroke-width: 0.5px;
+    stroke-dasharray: 2 2;
+  };
+}
+
+[road_type = 1] {
+  [surface = 1] {
+    /* @title Väg klass B1 */
+    [ts_class = 0] {
+      stroke: #425AF3;
+    };
+    /* @title Väg klass B2 */
+    [ts_class = 1] {
+      stroke: #70A3F3;
+    };
+    /* @title Väg klass B3 */
+    [ts_class = 2] {
+      stroke: #DD898F;
+    };
+    /* @title Väg klass B4 */
+    [ts_class = 3 ] {
+      stroke: #C52217;
+    };
+    /* @title Väg med cykelförbud */
+    [ts_class = 4 ] {
+      stroke: #400000;
+    };
+  };
+  /* @title Oasfalterad väg */
+  [surface = 2] {
+    stroke: #8A5435;
+    stroke-width: 0.6px;
+  }
+}
