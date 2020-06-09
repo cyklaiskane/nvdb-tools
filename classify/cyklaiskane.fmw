@@ -21,8 +21,8 @@
 #!   END_TCL=""
 #!   EXPLICIT_BOOKMARK_ORDER="false"
 #!   FME_BUILD_NUM="19617"
-#!   FME_DOCUMENT_GUID="b1cbdfb7-d960-49ac-bfcb-9ccf4c9dcfad"
-#!   FME_DOCUMENT_PRIORGUID="227693ba-aa9a-4aa9-a4d2-40a263968d2c,a5227d46-2876-4d8f-9cc3-fbde47240948,7ead0457-911b-4898-be4b-d73d43784050,3e8e691f-9fc2-44fd-90be-bb39ddf3f2ce,00b448d0-7857-499f-b3b7-ccb7ead8e9a1,d86fec5e-6618-4d84-93a2-ef5e86476e36,db8170bc-ec2a-4d7c-a695-e9e7c174bdf7,407c1050-a063-482b-b4b4-d444da22ca40,42098004-c201-45aa-a84f-b6d3a5de2893,519417e5-c983-43f1-88e5-94c165989cc7,c7f0e975-e476-43cc-8752-c7d3aa2e004d,b6bc07cb-7c29-46d7-8331-a50c8c291e72,54eb47f4-c8db-4ae5-8399-d7d68575e6c2,af45813e-8d52-4f7a-915a-884e2dcfad4c,8e024af4-a7a3-4ed5-a4a2-f0b75f67e4ba,f7243985-bfd7-4120-972b-0b2e1c18de31,7186b0a9-9c86-4b1c-a397-ba4c9c633cf9,65358962-0eeb-4e2c-b956-f6df0bd80122,e51375ea-a574-4bb5-a644-a472c6081346,cd9b0114-6fae-4abe-b572-93463ef39fca,28138730-d0e0-418e-bc50-1720640a9bcf,9a11da10-598e-4837-a249-1e03fdc304a7,39fa5fd1-26f8-4f59-9d5d-3c4fc7ab7aa6,5085dfc7-ea1f-46cc-908d-4767395064a2,fbeef347-79f8-41d3-a5be-ebb88de6ab4b,2293530c-f539-49db-a5f1-ed6c9bd7dfc1,a20fcf50-f012-474d-817b-7d3cc8b60bf2,fa75c520-92fd-4320-bc07-96cfeb1f6a3e,dcb78f0a-d551-4e7f-92d7-495927032508,f559d288-0170-413d-8e49-915999beda82,99cdaba1-f099-4cec-93f1-f637e585bf68,f837a0f1-b489-48b4-b46a-ed1347ecb61a,54a88f4d-e376-4090-9e54-ff6b1f76c83e,d2d63b39-4153-42bb-adad-6f33fb69fd9f,6995a426-7e0b-4131-92a2-94bf6b14c4be,f072193a-bdc4-4a53-8f61-938d17cb1a7d,5b85786a-de47-450a-b2c2-d1682f4a1642,f5b460cc-bfeb-4888-9a94-ed173cdd098d,2e63502a-4ff2-4dd4-b615-1da039f69966,c755887f-1b53-4286-9905-8ec32ada8d58,07efc418-5695-4e35-9d1a-2210f17419d3,0b137173-d90d-4267-8e7e-70acb63a0626,f1f714eb-dd0d-4c7e-8f99-d2b704dbb1c4"
+#!   FME_DOCUMENT_GUID="fbb73c3f-327b-4fcf-9e1a-4a69e510e351"
+#!   FME_DOCUMENT_PRIORGUID="227693ba-aa9a-4aa9-a4d2-40a263968d2c,a5227d46-2876-4d8f-9cc3-fbde47240948,7ead0457-911b-4898-be4b-d73d43784050,3e8e691f-9fc2-44fd-90be-bb39ddf3f2ce,00b448d0-7857-499f-b3b7-ccb7ead8e9a1,d86fec5e-6618-4d84-93a2-ef5e86476e36,db8170bc-ec2a-4d7c-a695-e9e7c174bdf7,407c1050-a063-482b-b4b4-d444da22ca40,42098004-c201-45aa-a84f-b6d3a5de2893,519417e5-c983-43f1-88e5-94c165989cc7,c7f0e975-e476-43cc-8752-c7d3aa2e004d,b6bc07cb-7c29-46d7-8331-a50c8c291e72,54eb47f4-c8db-4ae5-8399-d7d68575e6c2,af45813e-8d52-4f7a-915a-884e2dcfad4c,8e024af4-a7a3-4ed5-a4a2-f0b75f67e4ba,f7243985-bfd7-4120-972b-0b2e1c18de31,7186b0a9-9c86-4b1c-a397-ba4c9c633cf9,65358962-0eeb-4e2c-b956-f6df0bd80122,e51375ea-a574-4bb5-a644-a472c6081346,cd9b0114-6fae-4abe-b572-93463ef39fca,28138730-d0e0-418e-bc50-1720640a9bcf,9a11da10-598e-4837-a249-1e03fdc304a7,39fa5fd1-26f8-4f59-9d5d-3c4fc7ab7aa6,5085dfc7-ea1f-46cc-908d-4767395064a2,fbeef347-79f8-41d3-a5be-ebb88de6ab4b,2293530c-f539-49db-a5f1-ed6c9bd7dfc1,a20fcf50-f012-474d-817b-7d3cc8b60bf2,fa75c520-92fd-4320-bc07-96cfeb1f6a3e,dcb78f0a-d551-4e7f-92d7-495927032508,f559d288-0170-413d-8e49-915999beda82,99cdaba1-f099-4cec-93f1-f637e585bf68,f837a0f1-b489-48b4-b46a-ed1347ecb61a,54a88f4d-e376-4090-9e54-ff6b1f76c83e,d2d63b39-4153-42bb-adad-6f33fb69fd9f,6995a426-7e0b-4131-92a2-94bf6b14c4be,f072193a-bdc4-4a53-8f61-938d17cb1a7d,5b85786a-de47-450a-b2c2-d1682f4a1642,f5b460cc-bfeb-4888-9a94-ed173cdd098d,2e63502a-4ff2-4dd4-b615-1da039f69966,c755887f-1b53-4286-9905-8ec32ada8d58,07efc418-5695-4e35-9d1a-2210f17419d3,0b137173-d90d-4267-8e7e-70acb63a0626,f1f714eb-dd0d-4c7e-8f99-d2b704dbb1c4,b1cbdfb7-d960-49ac-bfcb-9ccf4c9dcfad"
 #!   FME_GEOMETRY_HANDLING="Enhanced"
 #!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
 #!   FME_REPROJECTION_ENGINE="FME"
@@ -31,7 +31,7 @@
 #!   HISTORY=""
 #!   IGNORE_READER_FAILURE="No"
 #!   LAST_SAVE_BUILD="FME(R) 2019.1.1.0 (20190801 - Build 19617 - macosx)"
-#!   LAST_SAVE_DATE="2019-12-18T13:53:46"
+#!   LAST_SAVE_DATE="2020-05-17T22:56:08"
 #!   LOG_FILE=""
 #!   LOG_MAX_RECORDED_FEATURES="200"
 #!   MARKDOWN_DESCRIPTION=""
@@ -50,7 +50,7 @@
 #!   TITLE=""
 #!   USAGE=""
 #!   USE_MARKDOWN=""
-#!   VIEW_POSITION="-21077.6 5758.12"
+#!   VIEW_POSITION="-20656.7 4708.11"
 #!   WARN_INVALID_XFORM_PARAM="Yes"
 #!   WORKSPACE_VERSION="1"
 #!   ZOOM_SCALE="62"
@@ -69,7 +69,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="SHAPE_GEOMETRY {FME_GEN_GEOMETRY}"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_sweep_angle double SHAPE_GEOMETRY char(50) multi_reader_id long multi_reader_keyword char(50) fme_fill_color char(50) fme_geometry char(50) fme_primary_axis double fme_color char(50) fme_secondary_axis double fme_type char(50) fme_text_size double fme_basename char(50) fme_rotation double fme_text_string char(50) fme_dataset char(50) fme_start_angle double multi_reader_full_id long shape_geometry_error{} char(254) shape_measures char(254) multi_reader_type char(50) fme_feature_type char(50)"
+#!   EXPOSABLE_ATTRS="fme_text_string char(50) multi_reader_type char(50) fme_type char(50) fme_geometry char(50) fme_start_angle double fme_dataset char(50) multi_reader_full_id long fme_rotation double multi_reader_id long fme_fill_color char(50) fme_sweep_angle double fme_secondary_axis double multi_reader_keyword char(50) fme_primary_axis double shape_geometry_error{} char(254) shape_measures char(254) fme_text_size double fme_feature_type char(50) SHAPE_GEOMETRY char(50) fme_color char(50) fme_basename char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES="Indexed"
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -127,7 +127,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="filegdb_type {FME_GEN_GEOMETRY} filegdb_where_wwjd &quot;&quot;"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_sweep_angle double multi_reader_id int multi_reader_keyword text(50) fme_fill_color text(50) fme_geometry text(50) fme_primary_axis double fme_color text(50) fme_secondary_axis double fme_type text(50) fme_text_size double fme_basename text(50) fme_rotation double fme_text_string text(50) fme_dataset text(50) fme_start_angle double multi_reader_full_id int multi_reader_type text(50) fme_feature_type text(50)"
+#!   EXPOSABLE_ATTRS="fme_text_string text(50) multi_reader_type text(50) fme_type text(50) fme_geometry text(50) fme_start_angle double fme_dataset text(50) multi_reader_full_id int fme_rotation double multi_reader_id int fme_fill_color text(50) fme_sweep_angle double fme_secondary_axis double multi_reader_keyword text(50) fme_primary_axis double fme_text_size double fme_feature_type text(50) fme_color text(50) fme_basename text(50)"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP filegdb_table_settings_group filegdb_where_wwjd Table Settings&quot; &quot;&quot; &quot;GUI OPTIONAL TEXT_EDIT_SQL_CFG filegdb_where_wwjd MODE,WHERE;FORMAT,FILEGDB WHERE Clause&quot; &quot;&quot; "
 #!   ATTR_INDEX_TYPES="Indexed"
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -178,162 +178,6 @@
 #! </DATASET>
 #! </DATASETS>
 #! <DATA_TYPES>
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="text(width)"
-#!   FME_TYPE="fme_varchar(width)"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="text(width)"
-#!   FME_TYPE="fme_char(width)"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="text(2048)"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="text(2048)"
-#!   FME_TYPE="fme_xml"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="text(2048)"
-#!   FME_TYPE="fme_json"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="blob"
-#!   FME_TYPE="fme_binarybuffer"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="blob"
-#!   FME_TYPE="fme_varbinary(width)"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="blob"
-#!   FME_TYPE="fme_binary(width)"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="date"
-#!   FME_TYPE="fme_datetime"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="date"
-#!   FME_TYPE="fme_date"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="date"
-#!   FME_TYPE="fme_time"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="single"
-#!   FME_TYPE="fme_real32"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="double"
-#!   FME_TYPE="fme_real64"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="double"
-#!   FME_TYPE="fme_decimal(width,decimal)"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="int"
-#!   FME_TYPE="fme_int32"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="double"
-#!   FME_TYPE="fme_uint32"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="text(20)"
-#!   FME_TYPE="fme_int64"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="text(20)"
-#!   FME_TYPE="fme_uint64"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="smallint"
-#!   FME_TYPE="fme_int16"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="int"
-#!   FME_TYPE="fme_uint16"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="smallint"
-#!   FME_TYPE="fme_int8"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="smallint"
-#!   FME_TYPE="fme_uint8"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="smallint"
-#!   FME_TYPE="fme_boolean"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="objectid"
-#!   FME_TYPE="fme_int32"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="guid"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="FILEGDB"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="globalid"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="FILEGDB"
-#! />
 #! <DATA_TYPE
 #!   IS_SOURCE="true"
 #!   FORMAT_TYPE="char(width)"
@@ -520,104 +364,164 @@
 #!   FME_TYPE="fme_decimal(width,decimal)"
 #!   FORMAT="ESRISHAPE"
 #! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="text(width)"
+#!   FME_TYPE="fme_varchar(width)"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="text(width)"
+#!   FME_TYPE="fme_char(width)"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="text(2048)"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="text(2048)"
+#!   FME_TYPE="fme_xml"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="text(2048)"
+#!   FME_TYPE="fme_json"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="blob"
+#!   FME_TYPE="fme_binarybuffer"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="blob"
+#!   FME_TYPE="fme_varbinary(width)"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="blob"
+#!   FME_TYPE="fme_binary(width)"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="date"
+#!   FME_TYPE="fme_datetime"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="date"
+#!   FME_TYPE="fme_date"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="date"
+#!   FME_TYPE="fme_time"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="single"
+#!   FME_TYPE="fme_real32"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="double"
+#!   FME_TYPE="fme_real64"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="double"
+#!   FME_TYPE="fme_decimal(width,decimal)"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="int"
+#!   FME_TYPE="fme_int32"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="double"
+#!   FME_TYPE="fme_uint32"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="text(20)"
+#!   FME_TYPE="fme_int64"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="text(20)"
+#!   FME_TYPE="fme_uint64"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="smallint"
+#!   FME_TYPE="fme_int16"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="int"
+#!   FME_TYPE="fme_uint16"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="smallint"
+#!   FME_TYPE="fme_int8"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="smallint"
+#!   FME_TYPE="fme_uint8"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="smallint"
+#!   FME_TYPE="fme_boolean"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="objectid"
+#!   FME_TYPE="fme_int32"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="guid"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="FILEGDB"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="globalid"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="FILEGDB"
+#! />
 #! </DATA_TYPES>
 #! <GEOM_TYPES>
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_point"
-#!   FME_TYPE="fme_point"
-#!   FORMAT="FILEGDB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_polygon"
-#!   FME_TYPE="fme_area"
-#!   FORMAT="FILEGDB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_polygon"
-#!   FME_TYPE="fme_rounded_rectangle"
-#!   FORMAT="FILEGDB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_polyline"
-#!   FME_TYPE="fme_line"
-#!   FORMAT="FILEGDB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_multipoint"
-#!   FME_TYPE="fme_point"
-#!   FORMAT="FILEGDB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_polygon"
-#!   FME_TYPE="fme_rectangle"
-#!   FORMAT="FILEGDB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_point"
-#!   FME_TYPE="fme_text"
-#!   FORMAT="FILEGDB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_polyline"
-#!   FME_TYPE="fme_arc"
-#!   FORMAT="FILEGDB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_polygon"
-#!   FME_TYPE="fme_ellipse"
-#!   FORMAT="FILEGDB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_no_geom"
-#!   FME_TYPE="fme_no_geom"
-#!   FORMAT="FILEGDB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_polygon"
-#!   FME_TYPE="fme_raster"
-#!   FORMAT="FILEGDB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_polyline"
-#!   FME_TYPE="fme_surface"
-#!   FORMAT="FILEGDB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_polyline"
-#!   FME_TYPE="fme_solid"
-#!   FORMAT="FILEGDB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_polygon"
-#!   FME_TYPE="fme_point_cloud"
-#!   FORMAT="FILEGDB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_no_geom"
-#!   FME_TYPE="fme_feature_table"
-#!   FORMAT="FILEGDB"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="geodb_no_geom"
-#!   FME_TYPE="fme_collection"
-#!   FORMAT="FILEGDB"
-#! />
 #! <GEOM_TYPE
 #!   IS_SOURCE="true"
 #!   FORMAT_TYPE="shape_point"
@@ -720,6 +624,102 @@
 #!   FME_TYPE="fme_collection"
 #!   FORMAT="ESRISHAPE"
 #! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_point"
+#!   FME_TYPE="fme_point"
+#!   FORMAT="FILEGDB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_polygon"
+#!   FME_TYPE="fme_area"
+#!   FORMAT="FILEGDB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_polygon"
+#!   FME_TYPE="fme_rounded_rectangle"
+#!   FORMAT="FILEGDB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_polyline"
+#!   FME_TYPE="fme_line"
+#!   FORMAT="FILEGDB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_multipoint"
+#!   FME_TYPE="fme_point"
+#!   FORMAT="FILEGDB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_polygon"
+#!   FME_TYPE="fme_rectangle"
+#!   FORMAT="FILEGDB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_point"
+#!   FME_TYPE="fme_text"
+#!   FORMAT="FILEGDB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_polyline"
+#!   FME_TYPE="fme_arc"
+#!   FORMAT="FILEGDB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_polygon"
+#!   FME_TYPE="fme_ellipse"
+#!   FORMAT="FILEGDB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_no_geom"
+#!   FME_TYPE="fme_no_geom"
+#!   FORMAT="FILEGDB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_polygon"
+#!   FME_TYPE="fme_raster"
+#!   FORMAT="FILEGDB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_polyline"
+#!   FME_TYPE="fme_surface"
+#!   FORMAT="FILEGDB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_polyline"
+#!   FME_TYPE="fme_solid"
+#!   FORMAT="FILEGDB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_polygon"
+#!   FME_TYPE="fme_point_cloud"
+#!   FORMAT="FILEGDB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_no_geom"
+#!   FME_TYPE="fme_feature_table"
+#!   FORMAT="FILEGDB"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="geodb_no_geom"
+#!   FME_TYPE="fme_collection"
+#!   FORMAT="FILEGDB"
+#! />
 #! </GEOM_TYPES>
 #! <FEATURE_TYPES>
 #! <FEATURE_TYPE
@@ -764,12 +764,12 @@
 #!   FEAT_GEOMTYPE="geodb_polyline"
 #!   POSITION="-19164.19140191402 4348.0434804348051"
 #!   BOUNDING_RECT="-19164.19140191402 4348.0434804348051 454 71"
-#!   ORDER="500000000000323.13"
+#!   ORDER="500000000000372.25"
 #!   COLLAPSED="true"
 #!   KEYWORD="FILEGDB_1"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
-#!   HIDDEN_USER_ATTRS="B_Dagsl_449_833 Matar_121 slitl_25 TEN_T_488 TEN_T_489 B_Forbjuden_fardriktning F_Forbjuden_fardriktning F_Dagsl_449_833 vagty_41 Namn_132"
+#!   HIDDEN_USER_ATTRS="TEN_T_488 Matar_121 slitl_25 TEN_T_489 vagty_41 F_Dagsl_449_833 Namn_132 B_Dagsl_449_833"
 #!   READ_SELECT_ATTRS="false"
 #!   MERGE_FILTER="*"
 #!   MERGE_FILTER_TYPE="FILTER_TYPE_GLOB"
@@ -1144,7 +1144,7 @@
 #!   BOUNDING_RECT="-14343.888393518084 4757.246617920724 2139.220892297617 1257.2116175707206"
 #!   STICKY="true"
 #!   COLOUR="0.80000000000000004,0.80000000000000004,0,0.39215686274509803"
-#!   CONTENTS="41 229 200 235 123 51 "
+#!   CONTENTS="41 235 152 123 188 229 200 51 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -1158,7 +1158,7 @@
 #!   BOUNDING_RECT="-14343.888393518084 3466.4629010267581 2149.4482672986396 1393.3652469732947"
 #!   STICKY="true"
 #!   COLOUR="0.80000000000000004,0.80000000000000004,0,0.39215686274509803"
-#!   CONTENTS="148 35 66 114 23 101 40 122 21 64 149 104 22 121 128 32 117 131 108 "
+#!   CONTENTS="40 104 122 32 21 23 22 64 117 121 108 149 131 35 101 128 114 148 66 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -1172,7 +1172,7 @@
 #!   BOUNDING_RECT="-12110.121101211009 4749.0474904749044 4074.0407404074012 2665.0266502665022"
 #!   STICKY="true"
 #!   COLOUR="0.53333333333333333,0.53333333333333333,0.80000000000000004,0.39215686274509803"
-#!   CONTENTS="189 180 147 106 191 190 174 178 36 176 212 175 119 24 118 179 177 201 214 33 211 185 169 34 173 138 184 171 116 206 208 168 120 "
+#!   CONTENTS="169 208 212 185 120 211 214 180 34 174 147 24 179 36 119 138 206 201 33 173 116 106 176 190 118 184 178 177 191 171 175 189 168 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -1186,7 +1186,7 @@
 #!   BOUNDING_RECT="-10718.560399572958 3648.6715854963427 1163.7773163445909 973.97113019277253"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="147 168 119 116 179 24 190 "
+#!   CONTENTS="119 24 179 116 168 190 147 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -1200,7 +1200,7 @@
 #!   BOUNDING_RECT="-7948.0794807948078 5311.1642227533375 3824.0382403824042 1091.122022331333"
 #!   STICKY="true"
 #!   COLOUR="0,0.80000000000000004,0,0.39215686274509803"
-#!   CONTENTS="234 134 233 216 225 161 163 172 224 232 228 231 38 "
+#!   CONTENTS="232 163 228 233 38 172 231 224 225 234 161 134 216 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -1214,7 +1214,7 @@
 #!   BOUNDING_RECT="-20468.20468204682 4561.4092504561413 3286.6042946143716 2469.3883302469394"
 #!   STICKY="true"
 #!   COLOUR="0.20784313725490197,0.40784313725490196,0.40784313725490196,1"
-#!   CONTENTS="199 226 219 215 223 197 154 7 194 218 158 196 217 192 193 146 198 "
+#!   CONTENTS="223 192 194 219 196 154 218 215 7 158 226 199 197 198 146 217 193 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -1228,7 +1228,7 @@
 #!   BOUNDING_RECT="-17055.852376705585 4561.4092504561413 1789.7906251789791 971.60062509716045"
 #!   STICKY="true"
 #!   COLOUR="0.60784313725490191,0.46274509803921571,0.20784313725490197,1"
-#!   CONTENTS="99 203 133 115 100 220 222 52 221 204 37 "
+#!   CONTENTS="133 115 203 52 222 220 221 37 100 99 204 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -1242,7 +1242,7 @@
 #!   BOUNDING_RECT="-14343.888393518084 5456.667620289254 2128.9935172965943 664.10920519461433"
 #!   STICKY="true"
 #!   COLOUR="0.45882352941176469,0.53725490196078429,0.21176470588235294,1"
-#!   CONTENTS="160 151 157 159 145 156 144 "
+#!   CONTENTS="145 144 156 157 159 151 160 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -1256,7 +1256,7 @@
 #!   BOUNDING_RECT="-6361.4259778961505 5088.0508805088066 2125.3836174725461 740.00740007400145"
 #!   STICKY="true"
 #!   COLOUR="0.45882352941176469,0.53725490196078429,0.21176470588235294,1"
-#!   CONTENTS="234 233 161 232 231 "
+#!   CONTENTS="232 233 231 234 161 "
 #! >
 #! </BOOKMARK>
 #! </BOOKMARKS>
@@ -1345,6 +1345,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="FAILED"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
@@ -1373,6 +1375,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <OUTPUT_FEAT NAME="&lt;REJECTED&gt;"/>
 #!     <FEAT_COLLAPSED COLLAPSED="2"/>
@@ -1410,6 +1414,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_PARM PARM_NAME="AGGREGATE_HANDLING" PARM_VALUE="Yes"/>
@@ -1470,6 +1476,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="PASSED"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
@@ -1498,6 +1506,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
 #!     <XFORM_PARM PARM_NAME="COMPOSITE_MSG" PARM_VALUE=""/>
@@ -1548,6 +1558,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="FAILED"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
@@ -1577,6 +1589,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="COMPOSITE"/>
 #!     <XFORM_PARM PARM_NAME="COMPOSITE_MSG" PARM_VALUE=""/>
@@ -1626,6 +1640,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction"/>
 #! </TRANSFORMER>
@@ -1667,6 +1683,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_2"/>
 #! </TRANSFORMER>
@@ -1708,6 +1726,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_5"/>
 #! </TRANSFORMER>
@@ -1749,6 +1769,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_6"/>
 #! </TRANSFORMER>
@@ -1790,6 +1812,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_7"/>
 #! </TRANSFORMER>
@@ -1831,6 +1855,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_8"/>
 #! </TRANSFORMER>
@@ -1872,6 +1898,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_9"/>
 #! </TRANSFORMER>
@@ -1913,6 +1941,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="&lt;lt&gt;=&lt;space&gt;30"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
@@ -1941,6 +1971,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <OUTPUT_FEAT NAME="4&lt;space&gt;och&lt;space&gt;&lt;gt&gt;&lt;space&gt;40"/>
 #!     <FEAT_COLLAPSED COLLAPSED="2"/>
@@ -1969,6 +2001,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <OUTPUT_FEAT NAME="4&lt;space&gt;och&lt;space&gt;&lt;lt&gt;=&lt;space&gt;40"/>
 #!     <FEAT_COLLAPSED COLLAPSED="3"/>
@@ -1997,6 +2031,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <OUTPUT_FEAT NAME="5&lt;comma&gt;&lt;space&gt;6"/>
 #!     <FEAT_COLLAPSED COLLAPSED="4"/>
@@ -2025,6 +2061,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <OUTPUT_FEAT NAME="7&lt;comma&gt;&lt;space&gt;8&lt;comma&gt;&lt;space&gt;9"/>
 #!     <FEAT_COLLAPSED COLLAPSED="5"/>
@@ -2053,6 +2091,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="5" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="5" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="5" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="5" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="5" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="5" />
 #!     <OUTPUT_FEAT NAME="&lt;lt&gt;UNFILTERED&lt;gt&gt;"/>
 #!     <FEAT_COLLAPSED COLLAPSED="6"/>
@@ -2081,6 +2121,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="6" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="6" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="6" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="6" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="6" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="6" />
 #!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="&lt;lt&gt;UNFILTERED&lt;gt&gt;"/>
 #!     <XFORM_PARM PARM_NAME="TESTLISTGRP" PARM_VALUE=""/>
@@ -2126,6 +2168,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="tveksam&lt;space&gt;&lt;openparen&gt;B3&lt;closeparen&gt;"/>
@@ -2155,6 +2199,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <OUTPUT_FEAT NAME="god&lt;space&gt;&lt;openparen&gt;B2&lt;closeparen&gt;"/>
@@ -2184,6 +2230,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="god&lt;space&gt;&lt;openparen&gt;B2&lt;closeparen&gt;"/>
@@ -2254,6 +2302,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="cykelv&lt;u00e4&gt;g"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
@@ -2282,6 +2332,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <OUTPUT_FEAT NAME="cykelf&lt;u00f6&gt;rbud"/>
 #!     <FEAT_COLLAPSED COLLAPSED="2"/>
@@ -2310,6 +2362,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <OUTPUT_FEAT NAME="oklassificerade&lt;space&gt;grusv&lt;u00e4&gt;gar"/>
 #!     <FEAT_COLLAPSED COLLAPSED="3"/>
@@ -2338,6 +2392,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <OUTPUT_FEAT NAME="allm&lt;u00e4&gt;n&lt;space&gt;v&lt;u00e4&gt;g&lt;space&gt;utan&lt;space&gt;hastighet"/>
 #!     <FEAT_COLLAPSED COLLAPSED="4"/>
@@ -2366,6 +2422,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <OUTPUT_FEAT NAME="har&lt;space&gt;&lt;u00c5&gt;DT"/>
 #!     <FEAT_COLLAPSED COLLAPSED="5"/>
@@ -2394,6 +2452,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="5" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="5" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="5" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="5" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="5" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="5" />
 #!     <OUTPUT_FEAT NAME="&lt;lt&gt;UNFILTERED&lt;gt&gt;"/>
 #!     <FEAT_COLLAPSED COLLAPSED="6"/>
@@ -2422,6 +2482,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="6" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="6" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="6" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="6" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="6" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="6" />
 #!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="&lt;lt&gt;UNFILTERED&lt;gt&gt;"/>
 #!     <XFORM_PARM PARM_NAME="TESTLISTGRP" PARM_VALUE=""/>
@@ -2455,6 +2517,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagnr_10370" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Klass_181" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Farjeled" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Namn_130" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="GCM_t_502" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="F_Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -2517,6 +2581,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_3"/>
 #! </TRANSFORMER>
@@ -2558,6 +2624,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_4"/>
 #! </TRANSFORMER>
@@ -2599,6 +2667,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_10"/>
 #! </TRANSFORMER>
@@ -2640,6 +2710,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_11"/>
 #! </TRANSFORMER>
@@ -2681,6 +2753,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_12"/>
 #! </TRANSFORMER>
@@ -2722,6 +2796,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="Cykelf&lt;u00e4&gt;lt&lt;space&gt;&lt;openparen&gt;C3&lt;closeparen&gt;"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
@@ -2750,6 +2826,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <OUTPUT_FEAT NAME="Cykelv&lt;u00e4&gt;g&lt;comma&gt;&lt;space&gt;grus&lt;space&gt;&lt;openparen&gt;C2&lt;closeparen&gt;"/>
 #!     <FEAT_COLLAPSED COLLAPSED="2"/>
@@ -2778,6 +2856,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <OUTPUT_FEAT NAME="Cykelv&lt;u00e4&gt;g&lt;space&gt;&lt;openparen&gt;C1&lt;closeparen&gt;"/>
 #!     <FEAT_COLLAPSED COLLAPSED="3"/>
@@ -2806,6 +2886,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="Cykelv&lt;u00e4&gt;g&lt;space&gt;&lt;openparen&gt;C1&lt;closeparen&gt;"/>
 #!     <XFORM_PARM PARM_NAME="TESTLISTGRP" PARM_VALUE=""/>
@@ -2839,6 +2921,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagnr_10370" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Klass_181" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Farjeled" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Namn_130" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="GCM_t_502" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="F_Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -2889,6 +2973,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagnr_10370" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Klass_181" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Farjeled" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Namn_130" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="GCM_t_502" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="F_Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -2939,6 +3025,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagnr_10370" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Klass_181" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Farjeled" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Namn_130" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="GCM_t_502" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="F_Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -2993,6 +3081,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="ACTION" PARM_VALUE="Create New Attribute"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
@@ -3044,6 +3134,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="TS_klass TS_klass B5 SET_TO OBJECTID OBJECTID  NO_OP ROUTE_ID ROUTE_ID  NO_OP FROM_MEASURE FROM_MEASURE  NO_OP TO_MEASURE TO_MEASURE  NO_OP Motortrafikled Motortrafikled  NO_OP Motorvag Motorvag  NO_OP konst_190 konst_190  NO_OP C_Cykelled C_Cykelled  NO_OP C_Rekommenderad_bilvag_for_c C_Rekommenderad_bilvag_for_c  NO_OP Vagde_10379 Vagde_10379  NO_OP Vagnr_10370 Vagnr_10370  NO_OP Klass_181 Klass_181  NO_OP Farjeled Farjeled  NO_OP F_Dagsl_449_833 F_Dagsl_449_833  NO_OP B_Dagsl_449_833 B_Dagsl_449_833  NO_OP Namn_130 Namn_130  NO_OP GCM_t_502 GCM_t_502  NO_OP F_Hogst_225 F_Hogst_225  NO_OP B_Hogst_225 B_Hogst_225  NO_OP Slitl_152 Slitl_152  NO_OP ADT_f_117 ADT_f_117  NO_OP Bredd_156 Bredd_156  NO_OP Vagha_7 Vagha_7  NO_OP Vagha_6 Vagha_6  NO_OP Vagtr_474 Vagtr_474  NO_OP vagty_41 vagty_41  NO_OP Shape_Length Shape_Length  NO_OP fme_feature_type fme_feature_type  NO_OP Hogst_225 Hogst_225  NO_OP"/>
@@ -3094,6 +3186,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
@@ -3145,6 +3239,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
@@ -3196,6 +3292,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
@@ -3247,6 +3345,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
@@ -3519,6 +3619,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
@@ -3569,6 +3671,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Junction_14"/>
 #! </TRANSFORMER>
@@ -3611,6 +3715,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="FAILED"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
@@ -3640,6 +3746,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
 #!     <XFORM_PARM PARM_NAME="COMPOSITE_MSG" PARM_VALUE=""/>
@@ -3690,6 +3798,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
@@ -3741,6 +3851,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="FAILED"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
@@ -3770,6 +3882,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
 #!     <XFORM_PARM PARM_NAME="COMPOSITE_MSG" PARM_VALUE=""/>
@@ -3819,6 +3933,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="OBJECTID OBJECTID  NO_OP ROUTE_ID ROUTE_ID  NO_OP FROM_MEASURE FROM_MEASURE  NO_OP TO_MEASURE TO_MEASURE  NO_OP Motortrafikled Motortrafikled  NO_OP Motorvag Motorvag  NO_OP konst_190 konst_190  NO_OP C_Cykelled C_Cykelled  NO_OP C_Rekommenderad_bilvag_for_c C_Rekommenderad_bilvag_for_c  NO_OP Vagde_10379 Vagde_10379  NO_OP Vagnr_10370 Vagnr_10370  NO_OP Klass_181 Klass_181  NO_OP Farjeled Farjeled  NO_OP Namn_130 Namn_130  NO_OP GCM_t_502 GCM_t_502  NO_OP F_Hogst_225 F_Hogst_225 &quot;FME_CONDITIONAL:DEFAULT_VALUE&apos;_FME_NO_OP_&apos;BOOL_OP;OR;COMPOSITE_TEST;1;TEST &lt;at&gt;Value&lt;openparen&gt;F_Hogst_225&lt;closeparen&gt; = g&lt;u00e5&gt;ngfart&apos;5&apos;FME_NUM_CONDITIONS2___&quot; SET_TO B_Hogst_225 B_Hogst_225 &quot;FME_CONDITIONAL:DEFAULT_VALUE&apos;_FME_NO_OP_&apos;BOOL_OP;OR;COMPOSITE_TEST;1;TEST &lt;at&gt;Value&lt;openparen&gt;B_Hogst_225&lt;closeparen&gt; = g&lt;u00e5&gt;ngfart&apos;5&apos;FME_NUM_CONDITIONS2___&quot; SET_TO Slitl_152 Slitl_152  NO_OP ADT_f_117 ADT_f_117  NO_OP Bredd_156 Bredd_156  NO_OP Vagha_7 Vagha_7  NO_OP Vagha_6 Vagha_6  NO_OP Vagtr_474 Vagtr_474  NO_OP Shape_Length Shape_Length  NO_OP  TS_klass FME_NULL_VALUE SET_TO"/>
@@ -3855,7 +3971,7 @@
 #!     <XFORM_PARM PARM_NAME="FEATURE_TYPE_LIST_ATTR" PARM_VALUE="_feature_type"/>
 #!     <XFORM_PARM PARM_NAME="FORMAT" PARM_VALUE="GEOPACKAGE"/>
 #!     <XFORM_PARM PARM_NAME="FORMAT_DIRECTIVES" PARM_VALUE="RUNTIME_MACROS,OVERWRITE_DATASET&lt;comma&gt;YES&lt;comma&gt;DATASET_TEMPLATE&lt;comma&gt;&lt;comma&gt;GEOPACKAGE_WRT_ADV_PARM&lt;comma&gt;FME_DISCLOSURE_OPEN&lt;comma&gt;TRANSACTION_SIZE&lt;comma&gt;10000&lt;comma&gt;DESTINATION_DATASETTYPE_VALIDATION&lt;comma&gt;Yes&lt;comma&gt;COORDINATE_SYSTEM_GRANULARITY&lt;comma&gt;FEATURE_TYPE&lt;comma&gt;ENCODE_FEATURE_TYPE_AND_ATTR_NAMES&lt;comma&gt;YES&lt;comma&gt;WRITE_NULLS&lt;comma&gt;YES,METAFILE,GEOPACKAGE"/>
-#!     <XFORM_PARM PARM_NAME="FORMAT_PARAMS" PARM_VALUE="GEOPACKAGE_COORDINATE_SYSTEM_GRANULARITY,&quot;OPTIONAL NO_EDIT TEXT&quot;,GEOPACKAGE&lt;space&gt;,GEOPACKAGE_OVERWRITE_DATASET,&quot;OPTIONAL ACTIVECHECK YES%NO,DATASET_TEMPLATE&quot;,GEOPACKAGE&lt;space&gt;Overwrite&lt;space&gt;Database:,GEOPACKAGE_DESTINATION_DATASETTYPE_VALIDATION,&quot;OPTIONAL NO_EDIT TEXT&quot;,GEOPACKAGE&lt;space&gt;,GEOPACKAGE_DATASET_TEMPLATE,&quot;OPTIONAL FILENAME_MUSTEXIST GeoPackage_Files(*.gpkg)|*.gpkg|All_files(*)|*&quot;,GEOPACKAGE&lt;space&gt;Template&lt;space&gt;File:,GEOPACKAGE_GEOPACKAGE_WRT_ADV_PARM,&quot;OPTIONAL DISCLOSUREGROUP TRANSACTION_SIZE&quot;,GEOPACKAGE&lt;space&gt;Advanced,GEOPACKAGE_ENCODE_FEATURE_TYPE_AND_ATTR_NAMES,&quot;OPTIONAL NO_EDIT TEXT&quot;,GEOPACKAGE&lt;space&gt;,GEOPACKAGE_TRANSACTION_SIZE,&quot;OPTIONAL INTEGER&quot;,GEOPACKAGE&lt;space&gt;Features&lt;space&gt;Per&lt;space&gt;Transaction:,GEOPACKAGE_WRITE_NULLS,&quot;OPTIONAL NO_EDIT TEXT&quot;,GEOPACKAGE&lt;space&gt;"/>
+#!     <XFORM_PARM PARM_NAME="FORMAT_PARAMS" PARM_VALUE="GEOPACKAGE_TRANSACTION_SIZE,&quot;OPTIONAL INTEGER&quot;,GEOPACKAGE&lt;space&gt;Features&lt;space&gt;Per&lt;space&gt;Transaction:,GEOPACKAGE_WRITE_NULLS,&quot;OPTIONAL NO_EDIT TEXT&quot;,GEOPACKAGE&lt;space&gt;,GEOPACKAGE_DESTINATION_DATASETTYPE_VALIDATION,&quot;OPTIONAL NO_EDIT TEXT&quot;,GEOPACKAGE&lt;space&gt;,GEOPACKAGE_COORDINATE_SYSTEM_GRANULARITY,&quot;OPTIONAL NO_EDIT TEXT&quot;,GEOPACKAGE&lt;space&gt;,GEOPACKAGE_DATASET_TEMPLATE,&quot;OPTIONAL FILENAME_MUSTEXIST GeoPackage_Files(*.gpkg)|*.gpkg|All_files(*)|*&quot;,GEOPACKAGE&lt;space&gt;Template&lt;space&gt;File:,GEOPACKAGE_GEOPACKAGE_WRT_ADV_PARM,&quot;OPTIONAL DISCLOSUREGROUP TRANSACTION_SIZE&quot;,GEOPACKAGE&lt;space&gt;Advanced,GEOPACKAGE_OVERWRITE_DATASET,&quot;OPTIONAL ACTIVECHECK YES%NO,DATASET_TEMPLATE&quot;,GEOPACKAGE&lt;space&gt;Overwrite&lt;space&gt;Database:,GEOPACKAGE_ENCODE_FEATURE_TYPE_AND_ATTR_NAMES,&quot;OPTIONAL NO_EDIT TEXT&quot;,GEOPACKAGE&lt;space&gt;"/>
 #!     <XFORM_PARM PARM_NAME="GEOPACKAGE_COORDINATE_SYSTEM_GRANULARITY" PARM_VALUE="FEATURE_TYPE"/>
 #!     <XFORM_PARM PARM_NAME="GEOPACKAGE_DATASET_TEMPLATE" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="GEOPACKAGE_DESTINATION_DATASETTYPE_VALIDATION" PARM_VALUE="Yes"/>
@@ -3875,7 +3991,7 @@
 #!     <XFORM_PARM PARM_NAME="TOTAL_FEATURES_WRITTEN_ATTR" PARM_VALUE="_total_features_written"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="WRITER_DIRECTIVES" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="WRITER_FEATURE_TYPE_PARAMS" PARM_VALUE="network:Output,ftp_feature_type_name,network,ftp_writer,GEOPACKAGE,ftp_dynamic_schema,no,ftp_dynamic_feature_type_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_geometry_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_def_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_sources,&lt;lt&gt;lt&lt;gt&gt;Unused&lt;lt&gt;gt&lt;gt&gt;,ftp_attribute_source,1,ftp_user_attributes,OBJECTID&lt;comma&gt;mediumint&lt;comma&gt;ROUTE_ID&lt;comma&gt;text&lt;lt&gt;openparen&lt;gt&gt;20&lt;lt&gt;closeparen&lt;gt&gt;&lt;comma&gt;FROM_MEASURE&lt;comma&gt;double&lt;comma&gt;TO_MEASURE&lt;comma&gt;double&lt;comma&gt;Motortrafikled&lt;comma&gt;smallint&lt;comma&gt;Motorvag&lt;comma&gt;smallint&lt;comma&gt;konst_190&lt;comma&gt;text&lt;lt&gt;openparen&lt;gt&gt;23&lt;lt&gt;closeparen&lt;gt&gt;&lt;comma&gt;C_Cykelled&lt;comma&gt;mediumint&lt;comma&gt;C_Rekommenderad_bilvag_for_c&lt;comma&gt;mediumint&lt;comma&gt;Vagde_10379&lt;comma&gt;int&lt;comma&gt;Vagnr_10370&lt;comma&gt;int&lt;comma&gt;Klass_181&lt;comma&gt;smallint&lt;comma&gt;Farjeled&lt;comma&gt;smallint&lt;comma&gt;Namn_130&lt;comma&gt;text&lt;lt&gt;openparen&lt;gt&gt;2000&lt;lt&gt;closeparen&lt;gt&gt;&lt;comma&gt;GCM_t_502&lt;comma&gt;mediumint&lt;comma&gt;F_Hogst_225&lt;comma&gt;mediumint&lt;comma&gt;B_Hogst_225&lt;comma&gt;mediumint&lt;comma&gt;Slitl_152&lt;comma&gt;text&lt;lt&gt;openparen&lt;gt&gt;6&lt;lt&gt;closeparen&lt;gt&gt;&lt;comma&gt;ADT_f_117&lt;comma&gt;int&lt;comma&gt;Bredd_156&lt;comma&gt;float&lt;comma&gt;Vagha_7&lt;comma&gt;text&lt;lt&gt;openparen&lt;gt&gt;2000&lt;lt&gt;closeparen&lt;gt&gt;&lt;comma&gt;Vagha_6&lt;comma&gt;text&lt;lt&gt;openparen&lt;gt&gt;8&lt;lt&gt;closeparen&lt;gt&gt;&lt;comma&gt;Vagtr_474&lt;comma&gt;mediumint&lt;comma&gt;Shape_Length&lt;comma&gt;double&lt;comma&gt;TS_klass&lt;comma&gt;text&lt;lt&gt;openparen&lt;gt&gt;2&lt;lt&gt;closeparen&lt;gt&gt;,ftp_user_attribute_values,&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;,ftp_format_parameters,fme_configuration_group&lt;comma&gt;&lt;comma&gt;fme_configuration_common_group&lt;comma&gt;&lt;comma&gt;fme_feature_operation&lt;comma&gt;INSERT&lt;comma&gt;fme_table_handling&lt;comma&gt;DROP_CREATE&lt;comma&gt;fme_selection_group&lt;comma&gt;&lt;comma&gt;fme_match_id_attribute&lt;comma&gt;&lt;lt&gt;lt&lt;gt&gt;Unused&lt;lt&gt;gt&lt;gt&gt;&lt;comma&gt;fme_table_creation_group&lt;comma&gt;FME_DISCLOSURE_OPEN&lt;comma&gt;geopackage_primary_index_column&lt;comma&gt;id&lt;comma&gt;geopackage_create_spatial_table&lt;comma&gt;YES&lt;comma&gt;geopackage_geometry_column&lt;comma&gt;geom&lt;comma&gt;geopackage_create_spatial_index&lt;comma&gt;Yes"/>
+#!     <XFORM_PARM PARM_NAME="WRITER_FEATURE_TYPE_PARAMS" PARM_VALUE="network:Output,ftp_feature_type_name,network,ftp_writer,GEOPACKAGE,ftp_dynamic_schema,no,ftp_dynamic_feature_type_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_geometry_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_def_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_sources,&lt;lt&gt;lt&lt;gt&gt;Unused&lt;lt&gt;gt&lt;gt&gt;,ftp_attribute_source,1,ftp_user_attributes,OBJECTID&lt;comma&gt;mediumint&lt;comma&gt;F_Forbjuden_fardriktning&lt;comma&gt;smallint&lt;comma&gt;B_Forbjuden_fardriktning&lt;comma&gt;smallint&lt;comma&gt;ROUTE_ID&lt;comma&gt;text&lt;lt&gt;openparen&lt;gt&gt;20&lt;lt&gt;closeparen&lt;gt&gt;&lt;comma&gt;FROM_MEASURE&lt;comma&gt;double&lt;comma&gt;TO_MEASURE&lt;comma&gt;double&lt;comma&gt;Motortrafikled&lt;comma&gt;smallint&lt;comma&gt;Motorvag&lt;comma&gt;smallint&lt;comma&gt;konst_190&lt;comma&gt;text&lt;lt&gt;openparen&lt;gt&gt;23&lt;lt&gt;closeparen&lt;gt&gt;&lt;comma&gt;C_Cykelled&lt;comma&gt;mediumint&lt;comma&gt;C_Rekommenderad_bilvag_for_c&lt;comma&gt;mediumint&lt;comma&gt;Vagde_10379&lt;comma&gt;int&lt;comma&gt;Vagnr_10370&lt;comma&gt;int&lt;comma&gt;Klass_181&lt;comma&gt;smallint&lt;comma&gt;Farjeled&lt;comma&gt;smallint&lt;comma&gt;Namn_130&lt;comma&gt;text&lt;lt&gt;openparen&lt;gt&gt;2000&lt;lt&gt;closeparen&lt;gt&gt;&lt;comma&gt;GCM_t_502&lt;comma&gt;mediumint&lt;comma&gt;F_Hogst_225&lt;comma&gt;mediumint&lt;comma&gt;B_Hogst_225&lt;comma&gt;mediumint&lt;comma&gt;Slitl_152&lt;comma&gt;text&lt;lt&gt;openparen&lt;gt&gt;6&lt;lt&gt;closeparen&lt;gt&gt;&lt;comma&gt;ADT_f_117&lt;comma&gt;int&lt;comma&gt;Bredd_156&lt;comma&gt;float&lt;comma&gt;Vagha_7&lt;comma&gt;text&lt;lt&gt;openparen&lt;gt&gt;2000&lt;lt&gt;closeparen&lt;gt&gt;&lt;comma&gt;Vagha_6&lt;comma&gt;text&lt;lt&gt;openparen&lt;gt&gt;8&lt;lt&gt;closeparen&lt;gt&gt;&lt;comma&gt;Vagtr_474&lt;comma&gt;mediumint&lt;comma&gt;Shape_Length&lt;comma&gt;double&lt;comma&gt;TS_klass&lt;comma&gt;text&lt;lt&gt;openparen&lt;gt&gt;2&lt;lt&gt;closeparen&lt;gt&gt;,ftp_user_attribute_values,&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;&lt;comma&gt;,ftp_format_parameters,fme_configuration_group&lt;comma&gt;&lt;comma&gt;fme_configuration_common_group&lt;comma&gt;&lt;comma&gt;fme_feature_operation&lt;comma&gt;INSERT&lt;comma&gt;fme_table_handling&lt;comma&gt;DROP_CREATE&lt;comma&gt;fme_selection_group&lt;comma&gt;&lt;comma&gt;fme_match_id_attribute&lt;comma&gt;&lt;lt&gt;lt&lt;gt&gt;Unused&lt;lt&gt;gt&lt;gt&gt;&lt;comma&gt;fme_table_creation_group&lt;comma&gt;FME_DISCLOSURE_OPEN&lt;comma&gt;geopackage_primary_index_column&lt;comma&gt;id&lt;comma&gt;geopackage_create_spatial_table&lt;comma&gt;YES&lt;comma&gt;geopackage_geometry_column&lt;comma&gt;geom&lt;comma&gt;geopackage_create_spatial_index&lt;comma&gt;Yes"/>
 #!     <XFORM_PARM PARM_NAME="WRITER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="WRITER_METAFILE" PARM_VALUE="ATTRIBUTE_CASE,ANY,ATTRIBUTE_INVALID_CHARS,&lt;backslash&gt;&lt;backslash&gt;&lt;quote&gt;&lt;opencurly&gt;&lt;closecurly&gt;&lt;openparen&gt;&lt;closeparen&gt;&lt;apos&gt;&lt;comma&gt;&lt;at&gt;&lt;amp&gt;`~!#&lt;dollar&gt;%^*+-=|&lt;openbracket&gt;&lt;closebracket&gt;:&lt;semicolon&gt;&lt;lt&gt;&lt;gt&gt;?.&lt;solidus&gt;,ATTRIBUTE_LENGTH,256,ATTR_TYPE_MAP,text&lt;comma&gt;fme_buffer&lt;comma&gt;text&lt;comma&gt;fme_xml&lt;comma&gt;text&lt;comma&gt;fme_json&lt;comma&gt;text&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;fme_varchar&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;text&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;fme_char&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;blob&lt;comma&gt;fme_binarybuffer&lt;comma&gt;blob&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;fme_varbinary&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;blob&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;fme_binary&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;date&lt;comma&gt;fme_date&lt;comma&gt;datetime&lt;comma&gt;fme_datetime&lt;comma&gt;datetime&lt;comma&gt;fme_time&lt;comma&gt;float&lt;comma&gt;fme_real32&lt;comma&gt;double&lt;comma&gt;fme_real64&lt;comma&gt;double&lt;comma&gt;&lt;quote&gt;fme_decimal&lt;openparen&gt;width&lt;comma&gt;decimal&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;boolean&lt;comma&gt;fme_boolean&lt;comma&gt;tinyint&lt;comma&gt;fme_int8&lt;comma&gt;smallint&lt;comma&gt;fme_int16&lt;comma&gt;smallint&lt;comma&gt;fme_uint8&lt;comma&gt;mediumint&lt;comma&gt;fme_int32&lt;comma&gt;mediumint&lt;comma&gt;fme_uint16&lt;comma&gt;int&lt;comma&gt;fme_int64&lt;comma&gt;int&lt;comma&gt;fme_uint32&lt;comma&gt;text&lt;openparen&gt;20&lt;closeparen&gt;&lt;comma&gt;fme_uint64,DEST_ILLEGAL_ATTR_LIST,,FEATURE_TYPE_CASE,ANY,FEATURE_TYPE_INVALID_CHARS,&lt;backslash&gt;&lt;backslash&gt;&lt;quote&gt;&lt;opencurly&gt;&lt;closecurly&gt;&lt;openparen&gt;&lt;closeparen&gt;&lt;apos&gt;&lt;comma&gt;&lt;at&gt;&lt;amp&gt;`~!#&lt;dollar&gt;%^*+-=|&lt;openbracket&gt;&lt;closebracket&gt;:&lt;semicolon&gt;&lt;lt&gt;&lt;gt&gt;?.&lt;solidus&gt;,FEATURE_TYPE_LENGTH,256,FEATURE_TYPE_LENGTH_INCLUDES_PREFIX,false,FEATURE_TYPE_RESERVED_WORDS,sqlite_sequence&lt;comma&gt;gpkg_contents&lt;comma&gt;gpkg_spatial_ref_sys&lt;comma&gt;gpkg_geometry_columns,FORMAT_METAFILE,$(FME_HOME_ENCODED)metafile&lt;solidus&gt;GEOPACKAGE.fmf,FORMAT_NAME,GEOPACKAGE,GEOM_MAP,wkb_multi_point_xyzm&lt;comma&gt;fme_point&lt;comma&gt;wkb_multi_point_xyz&lt;comma&gt;fme_point&lt;comma&gt;wkb_multi_point_xym&lt;comma&gt;fme_point&lt;comma&gt;wkb_multi_point&lt;comma&gt;fme_point&lt;comma&gt;wkb_point_xyzm&lt;comma&gt;fme_point&lt;comma&gt;wkb_point_xyz&lt;comma&gt;fme_point&lt;comma&gt;wkb_point_xym&lt;comma&gt;fme_point&lt;comma&gt;wkb_point&lt;comma&gt;fme_point&lt;comma&gt;wkb_point_xyzm&lt;comma&gt;fme_text&lt;comma&gt;wkb_multi_line_xyzm&lt;comma&gt;fme_line&lt;comma&gt;wkb_multi_line_xyz&lt;comma&gt;fme_line&lt;comma&gt;wkb_multi_line_xym&lt;comma&gt;fme_line&lt;comma&gt;wkb_multi_line&lt;comma&gt;fme_line&lt;comma&gt;wkb_multi_curve_xyzm&lt;comma&gt;fme_line&lt;comma&gt;wkb_multi_curve_xyz&lt;comma&gt;fme_line&lt;comma&gt;wkb_multi_curve_xym&lt;comma&gt;fme_line&lt;comma&gt;wkb_multi_curve&lt;comma&gt;fme_line&lt;comma&gt;wkb_line_xyzm&lt;comma&gt;fme_line&lt;comma&gt;wkb_line_xyz&lt;comma&gt;fme_line&lt;comma&gt;wkb_line_xym&lt;comma&gt;fme_line&lt;comma&gt;wkb_line&lt;comma&gt;fme_line&lt;comma&gt;wkb_compound_curve_xyzm&lt;comma&gt;fme_line&lt;comma&gt;wkb_compound_curve_xyz&lt;comma&gt;fme_line&lt;comma&gt;wkb_compound_curve_xym&lt;comma&gt;fme_line&lt;comma&gt;wkb_compound_curve&lt;comma&gt;fme_line&lt;comma&gt;wkb_circular_string_xyzm&lt;comma&gt;fme_arc&lt;comma&gt;wkb_circular_string_xyz&lt;comma&gt;fme_arc&lt;comma&gt;wkb_circular_string_xym&lt;comma&gt;fme_arc&lt;comma&gt;wkb_circular_string&lt;comma&gt;fme_arc&lt;comma&gt;wkb_line_xyzm&lt;comma&gt;fme_solid&lt;comma&gt;wkb_line_xyzm&lt;comma&gt;fme_surface&lt;comma&gt;wkb_multi_polygon_xyzm&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_multi_polygon_xyz&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_multi_polygon_xym&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_multi_polygon&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_multi_surface_xyzm&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_multi_surface_xyz&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_multi_surface_xym&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_multi_surface&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_polygon_xyzm&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_polygon_xyz&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_polygon_xym&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_polygon&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_curve_polygon_xyzm&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_curve_polygon_xyz&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_curve_polygon_xym&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_curve_polygon&lt;comma&gt;fme_polygon&lt;comma&gt;wkb_curve_polygon_xyzm&lt;comma&gt;fme_ellipse&lt;comma&gt;wkb_polygon_xyzm&lt;comma&gt;fme_rectangle&lt;comma&gt;wkb_polygon_xyzm&lt;comma&gt;fme_rounded_rectangle&lt;comma&gt;wkb_polygon_xyzm&lt;comma&gt;fme_raster&lt;comma&gt;wkb_polygon_xyzm&lt;comma&gt;fme_point_cloud&lt;comma&gt;wkb_geometry_collection_xyzm&lt;comma&gt;fme_collection&lt;comma&gt;wkb_geometry_collection_xyz&lt;comma&gt;fme_collection&lt;comma&gt;wkb_geometry_collection_xym&lt;comma&gt;fme_collection&lt;comma&gt;wkb_geometry_collection&lt;comma&gt;fme_collection&lt;comma&gt;wkb_geometry&lt;comma&gt;fme_no_geom&lt;comma&gt;wkb_none&lt;comma&gt;fme_no_geom&lt;comma&gt;wkb_geometry&lt;comma&gt;fme_feature_table,READER_ATTR_INDEX_TYPES,Indexed,SOURCE,no,SUPPORTS_FEAT_TYPE_FANOUT,yes,SUPPORTS_MULTI_GEOM,yes,WORKBENCH_CANNED_SCHEMA,,WRITER,GEOPACKAGE,WRITER_ATTR_INDEX_TYPES,Indexed,WRITER_DEFLINE_PARMS,&lt;quote&gt;GUI&lt;space&gt;NAMEDGROUP&lt;space&gt;fme_configuration_group&lt;space&gt;fme_configuration_common_group%fme_spatial_group%fme_advanced_group%oracle_advanced_group&lt;space&gt;Table&lt;quote&gt;&lt;comma&gt;&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;NAMEDGROUP&lt;space&gt;fme_configuration_common_group&lt;space&gt;fme_feature_operation%fme_table_handling%mie_pack%oracle_model%fme_update_geometry%fme_selection_group%fme_table_creation_group&lt;space&gt;General&lt;quote&gt;&lt;comma&gt;&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;ACTIVECHOICE_LOOKUP&lt;space&gt;fme_feature_operation&lt;space&gt;Insert&lt;comma&gt;INSERT&lt;comma&gt;fme_update_geometry&lt;comma&gt;fme_selection_group%Update&lt;comma&gt;UPDATE&lt;comma&gt;++fme_table_handling+USE_EXISTING&lt;comma&gt;++fme_selection_group+FME_DISCLOSURE_OPEN%Delete&lt;comma&gt;DELETE&lt;comma&gt;++fme_table_handling+USE_EXISTING&lt;comma&gt;fme_update_geometry&lt;comma&gt;++fme_selection_group+FME_DISCLOSURE_OPEN&lt;comma&gt;fme_spatial_group&lt;comma&gt;fme_advanced_group&lt;comma&gt;oracle_sequenced_cols%&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;fme_db_operation&lt;lt&gt;closeparen&lt;gt&gt;&lt;comma&gt;MULTIPLE&lt;comma&gt;++fme_table_handling+USE_EXISTING&lt;comma&gt;++fme_selection_group+FME_DISCLOSURE_OPEN&lt;space&gt;Feature&lt;space&gt;Operation&lt;quote&gt;&lt;comma&gt;INSERT&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;ACTIVECHOICE_LOOKUP&lt;space&gt;fme_table_handling&lt;space&gt;Use&lt;lt&gt;space&lt;gt&gt;Existing&lt;comma&gt;USE_EXISTING&lt;comma&gt;fme_table_creation_group%Create&lt;lt&gt;space&lt;gt&gt;If&lt;lt&gt;space&lt;gt&gt;Needed&lt;comma&gt;CREATE_IF_MISSING%Drop&lt;lt&gt;space&lt;gt&gt;and&lt;lt&gt;space&lt;gt&gt;Create&lt;comma&gt;DROP_CREATE&lt;space&gt;Table&lt;space&gt;Handling&lt;quote&gt;&lt;comma&gt;CREATE_IF_MISSING&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;DISCLOSUREGROUP&lt;space&gt;fme_selection_group&lt;space&gt;fme_match_id_attribute&lt;space&gt;Row&lt;space&gt;Selection&lt;quote&gt;&lt;comma&gt;&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;WHOLE_LINE&lt;space&gt;ATTR&lt;space&gt;fme_match_id_attribute&lt;space&gt;ID&lt;space&gt;Attribute&lt;quote&gt;&lt;comma&gt;geopackage_fid&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;DISCLOSUREGROUP&lt;space&gt;fme_table_creation_group&lt;space&gt;geopackage_primary_index_column%geopackage_create_spatial_table&lt;space&gt;Table&lt;space&gt;Creation&lt;space&gt;Parameters&lt;quote&gt;&lt;comma&gt;&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;OPTIONAL&lt;space&gt;TEXT_ENCODED&lt;space&gt;geopackage_primary_index_column&lt;space&gt;Primary&lt;space&gt;Index&lt;space&gt;Column&lt;quote&gt;&lt;comma&gt;id&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;ACTIVEDISCLOSUREGROUP&lt;space&gt;geopackage_create_spatial_table&lt;space&gt;geopackage_geometry_column%geopackage_create_spatial_index&lt;space&gt;Spatial&lt;quote&gt;&lt;comma&gt;YES&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;OPTIONAL&lt;space&gt;TEXT_ENCODED&lt;space&gt;geopackage_geometry_column&lt;space&gt;Spatial&lt;space&gt;Column&lt;quote&gt;&lt;comma&gt;geom&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;CHOICE&lt;space&gt;geopackage_create_spatial_index&lt;space&gt;Yes%No&lt;space&gt;Create&lt;space&gt;Spatial&lt;space&gt;Index&lt;quote&gt;&lt;comma&gt;Yes,WRITER_DEF_LINE_TEMPLATE,&lt;opencurly&gt;FME_GEN_GROUP_NAME&lt;closecurly&gt;&lt;comma&gt;geopackage_type&lt;comma&gt;&lt;opencurly&gt;FME_GEN_GEOMETRY&lt;closecurly&gt;&lt;comma&gt;fme_feature_operation&lt;comma&gt;INSERT&lt;comma&gt;fme_table_handling&lt;comma&gt;CREATE_IF_MISSING&lt;comma&gt;fme_selection_method&lt;comma&gt;MATCH_ID&lt;comma&gt;fme_match_id_attribute&lt;comma&gt;&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;geopackage_fid&lt;quote&gt;&lt;quote&gt;&lt;quote&gt;&lt;comma&gt;geopackage_create_spatial_table&lt;comma&gt;YES&lt;comma&gt;geopackage_geometry_column&lt;comma&gt;geom&lt;comma&gt;geopackage_primary_index_column&lt;comma&gt;id&lt;comma&gt;geopackage_create_spatial_index&lt;comma&gt;YES,WRITER_FORMAT_PARAMETER,ADVANCED_PARMS&lt;comma&gt;GEOPACKAGE_OUT_TRANSACTION_SIZE&lt;comma&gt;ALLOW_DATASET_CONFLICT&lt;comma&gt;YES&lt;comma&gt;DATASET_NAME&lt;comma&gt;&lt;quote&gt;GeoPackage&lt;space&gt;file&lt;quote&gt;&lt;comma&gt;FEATURE_TYPE_NAME&lt;comma&gt;Table&lt;comma&gt;FEATURE_TYPE_DEFAULT_NAME&lt;comma&gt;Table1&lt;comma&gt;READER_DATASET_HINT&lt;comma&gt;&lt;quote&gt;Select&lt;space&gt;the&lt;space&gt;GeoPackage&lt;space&gt;file&lt;openparen&gt;s&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;WRITER_DATASET_HINT&lt;comma&gt;&lt;quote&gt;Specify&lt;space&gt;a&lt;space&gt;name&lt;space&gt;for&lt;space&gt;the&lt;space&gt;GeoPackage&lt;space&gt;file&lt;quote&gt;&lt;comma&gt;ATTRIBUTE_READING&lt;comma&gt;DEFLINE,WRITER_HAS_DEFLINE_ATTRS,yes"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureWriter"/>
@@ -3961,6 +4077,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagnr_10370" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Klass_181" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Farjeled" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Namn_130" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="GCM_t_502" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="F_Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -3972,7 +4090,7 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagha_6" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="Vagha_6,Shape_Length,FROM_MEASURE,Farjeled,ADT_f_117,TO_MEASURE,Motorvag,Namn_130,Vagnr_10370,Vagha_7,OBJECTID,Motortrafikled,B_Hogst_225,Vagtr_474,ROUTE_ID,C_Rekommenderad_bilvag_for_c,Klass_181,Vagde_10379,Slitl_152,F_Hogst_225,konst_190,Bredd_156,GCM_t_502,C_Cykelled"/>
+#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="Farjeled,Klass_181,B_Hogst_225,Namn_130,ADT_f_117,Motortrafikled,C_Cykelled,GCM_t_502,Bredd_156,F_Hogst_225,B_Forbjuden_fardriktning,Motorvag,Vagtr_474,TO_MEASURE,Vagnr_10370,konst_190,Vagha_6,FROM_MEASURE,Vagha_7,Vagde_10379,ROUTE_ID,F_Forbjuden_fardriktning,OBJECTID,C_Rekommenderad_bilvag_for_c,Shape_Length,Slitl_152"/>
 #!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
@@ -4004,6 +4122,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagnr_10370" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Klass_181" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Farjeled" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Namn_130" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="GCM_t_502" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="F_Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -4016,7 +4136,7 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="Shape_Length,Vagha_6,ADT_f_117,Farjeled,FROM_MEASURE,Motorvag,TO_MEASURE,Namn_130,Vagnr_10370,Vagha_7,Motortrafikled,OBJECTID,B_Hogst_225,Vagtr_474,C_Rekommenderad_bilvag_for_c,Klass_181,ROUTE_ID,Vagde_10379,Slitl_152,F_Hogst_225,konst_190,TS_klass,Bredd_156,GCM_t_502,C_Cykelled"/>
+#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="Farjeled,Klass_181,B_Hogst_225,Namn_130,ADT_f_117,Motortrafikled,C_Cykelled,GCM_t_502,Bredd_156,F_Hogst_225,B_Forbjuden_fardriktning,Motorvag,Vagtr_474,TO_MEASURE,Vagnr_10370,konst_190,Vagha_6,FROM_MEASURE,Vagha_7,Vagde_10379,ROUTE_ID,TS_klass,F_Forbjuden_fardriktning,OBJECTID,C_Rekommenderad_bilvag_for_c,Shape_Length,Slitl_152"/>
 #!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
@@ -4060,6 +4180,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="UNJOINED_LEFT"/>
@@ -4089,6 +4211,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <OUTPUT_FEAT NAME="UNJOINED_RIGHT"/>
 #!     <FEAT_COLLAPSED COLLAPSED="2"/>
@@ -4121,6 +4245,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="3" />
@@ -4173,6 +4299,8 @@
 #!     <XFORM_ATTR ATTR_NAME="Vagtr_474" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Shape_Length" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="TS_klass" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="F_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="B_Forbjuden_fardriktning" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="Hogst_225" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="ADT_to_SDT" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="ACTION" PARM_VALUE="Overwrite Existing Attributes"/>
@@ -5267,7 +5395,7 @@ ESRISHAPE_1_DEF To2015_Swe99TM   SHAPE_GEOMETRY               shape_polygon   OB
 
 FACTORY_DEF * RoutingFactory   FACTORY_NAME "Router and Unexpected Input Remover"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE ESRISHAPE ESRISHAPE_1::To2015_Swe99TM multi_reader_keyword,$(DATASET_KEYWORD_ESRISHAPE_1) TO FME_GENERIC ::To2015_Swe99TM ALIAS_GEOMETRY    ROUTE FILEGDB FILEGDB_1::skane_flat_partial_SKANE_LAN multi_reader_keyword,$(DATASET_KEYWORD_FILEGDB_1) TO FME_GENERIC ::skane_flat_partial_SKANE_LAN ALIAS_GEOMETRY    MERGE_INPUT Yes   OUTPUT ROUTED FEATURE_TYPE *
 ESRISHAPE_1_MERGE_DEF ESRISHAPE_1::To2015_Swe99TM EXACT To2015_Swe99TM
-FILEGDB_1_MERGE_DEF FILEGDB_1::skane_flat_partial_SKANE_LAN GLOB * DEFLINE filegdb_type,geodb_polyline,filegdb_where_wwjd,,fme_attribute_reading,all,OBJECTID,objectid,ROUTE_ID,text<openparen>20<closeparen>,FROM_MEASURE,double,TO_MEASURE,double,Motortrafikled,int,Motorvag,int,konst_190,text<openparen>23<closeparen>,C_Cykelled,int,C_Rekommenderad_bilvag_for_c,int,Vagde_10379,text<openparen>0<closeparen>,Vagnr_10370,text<openparen>0<closeparen>,Klass_181,text<openparen>1<closeparen>,Farjeled,int,Namn_130,text<openparen>2000<closeparen>,GCM_t_502,int,F_Hogst_225,text<openparen>10<closeparen>,B_Hogst_225,text<openparen>10<closeparen>,Slitl_152,text<openparen>6<closeparen>,ADT_f_117,text<openparen>0<closeparen>,Bredd_156,text<openparen>0<closeparen>,Vagha_7,text<openparen>2000<closeparen>,Vagha_6,text<openparen>8<closeparen>,Vagtr_474,int,Shape_Length,double
+FILEGDB_1_MERGE_DEF FILEGDB_1::skane_flat_partial_SKANE_LAN GLOB * DEFLINE filegdb_type,geodb_polyline,filegdb_where_wwjd,,fme_attribute_reading,all,OBJECTID,objectid,ROUTE_ID,text<openparen>20<closeparen>,FROM_MEASURE,double,TO_MEASURE,double,Motortrafikled,int,Motorvag,int,konst_190,text<openparen>23<closeparen>,C_Cykelled,int,C_Rekommenderad_bilvag_for_c,int,Vagde_10379,text<openparen>0<closeparen>,Vagnr_10370,text<openparen>0<closeparen>,Klass_181,text<openparen>1<closeparen>,Farjeled,int,F_Forbjuden_fardriktning,int,B_Forbjuden_fardriktning,int,Namn_130,text<openparen>2000<closeparen>,GCM_t_502,int,F_Hogst_225,text<openparen>10<closeparen>,B_Hogst_225,text<openparen>10<closeparen>,Slitl_152,text<openparen>6<closeparen>,ADT_f_117,text<openparen>0<closeparen>,Bredd_156,text<openparen>0<closeparen>,Vagha_7,text<openparen>2000<closeparen>,Vagha_6,text<openparen>8<closeparen>,Vagtr_474,int,Shape_Length,double
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory    FACTORY_NAME "skane_flat_partial_SKANE_LAN (FILEGDB_1) Splitter"    INPUT FEATURE_TYPE skane_flat_partial_SKANE_LAN    OUTPUT FEATURE_TYPE skane_flat_partial_SKANE_LAN_FILEGDB_1
@@ -5321,8 +5449,8 @@ FACTORY_DEF * TeeFactory FACTORY_NAME ADT_to_SDT_<Rejected> INPUT FEATURE_TYPE A
 # -------------------------------------------------------------------------
 FACTORY_DEF * InlineQueryFactory FACTORY_NAME InlineQuerier_Beräkna_SDT TABLE_DEF SDT AVSN_ID<comma>integer<comma>IK_NR<comma>integer TABLE_DEF TNE_FT_Trafik_4 OBJECTID<comma>integer<comma>Avsni_119<comma>integer<comma>ROUTE_ID<comma>varchar<openparen>38<closeparen> QUERY_DEF network SQL_ENCODED SELECT<space><lf><space><space><space><space>b.ROUTE_ID<comma><lf><space><space><space><space>max<openparen><openparen>IK_NR<space>%<space>100<closeparen><space><solidus><space>10.0<closeparen><space>as<space>ADT_to_SDT<lf>FROM<lf><space><space><space><space><quote>SDT<quote><space>a<lf>JOIN<lf><space><space><space><space><quote>TNE_FT_Trafik_4<quote><space>b<lf>ON<lf><space><space><space><space>a.AVSN_ID<space>=<space>b.Avsni_119<lf>WHERE<lf><space><space><space><space>IK_NR<space><lt><space>90000<lf>GROUP<space>BY<lf><space><space><space><space>b.ROUTE_ID GEOMETRY_SELECTION FIRST INPUT SDT FEATURE_TYPE ADT_to_SDT_<OTHER> INPUT TNE_FT_Trafik_4 FEATURE_TYPE NVDB_Trafik_<OTHER> OUTPUT network FEATURE_TYPE InlineQuerier_Beräkna_SDT_network
 # -------------------------------------------------------------------------
-INCLUDE [    set macroLine "MACRO AttributeKeeper_9b6a404f_5ea1_45d4_adff_5b36cabe756d29_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper    INPUT  FEATURE_TYPE skane_flat_partial_SKANE_LAN_FILEGDB_1    OUTPUT { FEATURE_TYPE AttributeKeeper_OUTPUT        @KeepAttributes(fme_encoded,Vagha_6,Shape_Length,FROM_MEASURE,Farjeled,ADT_f_117,TO_MEASURE,Motorvag,Namn_130,Vagnr_10370,Vagha_7,OBJECTID,Motortrafikled,B_Hogst_225,Vagtr_474,ROUTE_ID,C_Rekommenderad_bilvag_for_c,Klass_181,Vagde_10379,Slitl_152,F_Hogst_225,konst_190,Bredd_156,GCM_t_502,C_Cykelled,fme_pcre_match,"^fme_$(AttributeKeeper_9b6a404f_5ea1_45d4_adff_5b36cabe756d29_LIST_EXP)")         }
+INCLUDE [    set macroLine "MACRO AttributeKeeper_cc77f966_f024_47c4_8d26_4f1da472af865_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper    INPUT  FEATURE_TYPE skane_flat_partial_SKANE_LAN_FILEGDB_1    OUTPUT { FEATURE_TYPE AttributeKeeper_OUTPUT        @KeepAttributes(fme_encoded,Farjeled,Klass_181,B_Hogst_225,Namn_130,ADT_f_117,Motortrafikled,C_Cykelled,GCM_t_502,Bredd_156,F_Hogst_225,B_Forbjuden_fardriktning,Motorvag,Vagtr_474,TO_MEASURE,Vagnr_10370,konst_190,Vagha_6,FROM_MEASURE,Vagha_7,Vagde_10379,ROUTE_ID,F_Forbjuden_fardriktning,OBJECTID,C_Rekommenderad_bilvag_for_c,Shape_Length,Slitl_152,fme_pcre_match,"^fme_$(AttributeKeeper_cc77f966_f024_47c4_8d26_4f1da472af865_LIST_EXP)")         }
 # -------------------------------------------------------------------------
 FACTORY_DEF {*} AttrSetFactory    COMMAND_PARM_EVALUATION SINGLE_PASS    FACTORY_NAME AttributeManager_2    INPUT  FEATURE_TYPE AttributeKeeper_OUTPUT    MULTI_FEATURE_MODE NO     NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 3    DEF_VAL_COLUMN 2    ATTR_ACTION { "F_Hogst_225" "F_Hogst_225" "FME_CONDITIONAL:DEFAULT_VALUE'_FME_NO_OP_'BOOL_OP;OR;COMPOSITE_TEST;1;TEST <at>Value<openparen>F_Hogst_225<closeparen> = g<u00e5>ngfart'5'FME_NUM_CONDITIONS2___" "SET_TO" }      ATTR_ACTION { "B_Hogst_225" "B_Hogst_225" "FME_CONDITIONAL:DEFAULT_VALUE'_FME_NO_OP_'BOOL_OP;OR;COMPOSITE_TEST;1;TEST <at>Value<openparen>B_Hogst_225<closeparen> = g<u00e5>ngfart'5'FME_NUM_CONDITIONS2___" "SET_TO" }      ATTR_ACTION { "" "TS_klass" "FME_NULL_VALUE" "SET_TO" }    OUTPUT OUTPUT FEATURE_TYPE AttributeManager_2_OUTPUT
 # -------------------------------------------------------------------------
@@ -5400,7 +5528,7 @@ FACTORY_DEF {*} AttrSetFactory    COMMAND_PARM_EVALUATION SINGLE_PASS    FACTORY
 # -------------------------------------------------------------------------
 FACTORY_DEF {*} AttrSetFactory    COMMAND_PARM_EVALUATION SINGLE_PASS    FACTORY_NAME AttributeManager_C3    INPUT  FEATURE_TYPE TestFilter_Cykelf<u00e4>lt<space><openparen>C3<closeparen>    MULTI_FEATURE_MODE NO     NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV    ACTION_COLUMN 3    DEF_VAL_COLUMN 2    ATTR_ACTION { "TS_klass" "TS_klass" "C3" "SET_TO" }    OUTPUT OUTPUT FEATURE_TYPE AttributeManager_C3_OUTPUT
 # -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_8    INPUT  FEATURE_TYPE TestFilter_2_allm<u00e4>n<space>v<u00e4>g<space>utan<space>hastighet    INPUT  FEATURE_TYPE TestFilter_2_f<u00e4>rjeled    OUTPUT FEATURE_TYPE Junction_8_Output
+FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_8    INPUT  FEATURE_TYPE TestFilter_2_f<u00e4>rjeled    INPUT  FEATURE_TYPE TestFilter_2_allm<u00e4>n<space>v<u00e4>g<space>utan<space>hastighet    OUTPUT FEATURE_TYPE Junction_8_Output
 # -------------------------------------------------------------------------
 FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_9    INPUT  FEATURE_TYPE Junction_8_Output    OUTPUT FEATURE_TYPE Junction_9_Output
 # -------------------------------------------------------------------------
@@ -5434,11 +5562,11 @@ FACTORY_DEF {*} AttrSetFactory    COMMAND_PARM_EVALUATION SINGLE_PASS    FACTORY
 # -------------------------------------------------------------------------
 FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_13    INPUT  FEATURE_TYPE Junction_9_Output    INPUT  FEATURE_TYPE AttributeManager_C1_OUTPUT    INPUT  FEATURE_TYPE TestFilter_G<u00e5>ngv<u00e4>g    INPUT  FEATURE_TYPE AttributeManager_C2_OUTPUT    INPUT  FEATURE_TYPE AttributeManager_C3_OUTPUT    INPUT  FEATURE_TYPE AttributeManager_G2_OUTPUT    INPUT  FEATURE_TYPE AttributeManager_G1_OUTPUT    INPUT  FEATURE_TYPE Tester_grusväg_dålig_FAILED    INPUT  FEATURE_TYPE Tester_grusväg_bra_FAILED    OUTPUT FEATURE_TYPE Junction_13_Output
 # -------------------------------------------------------------------------
-INCLUDE [    set macroLine "MACRO AttributeKeeper_2_58ff39ee_aa8d_4506_875d_3d80ba4f3f6d29_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_2    INPUT  FEATURE_TYPE Junction_13_Output    OUTPUT { FEATURE_TYPE AttributeKeeper_2_OUTPUT        @KeepAttributes(fme_encoded,Shape_Length,Vagha_6,ADT_f_117,Farjeled,FROM_MEASURE,Motorvag,TO_MEASURE,Namn_130,Vagnr_10370,Vagha_7,Motortrafikled,OBJECTID,B_Hogst_225,Vagtr_474,C_Rekommenderad_bilvag_for_c,Klass_181,ROUTE_ID,Vagde_10379,Slitl_152,F_Hogst_225,konst_190,TS_klass,Bredd_156,GCM_t_502,C_Cykelled,fme_pcre_match,"^fme_$(AttributeKeeper_2_58ff39ee_aa8d_4506_875d_3d80ba4f3f6d29_LIST_EXP)")         }
+INCLUDE [    set macroLine "MACRO AttributeKeeper_2_89fa9e00_9ec2_4cc2_a939_4e4251688f5a6_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_2    INPUT  FEATURE_TYPE Junction_13_Output    OUTPUT { FEATURE_TYPE AttributeKeeper_2_OUTPUT        @KeepAttributes(fme_encoded,Farjeled,Klass_181,B_Hogst_225,Namn_130,ADT_f_117,Motortrafikled,C_Cykelled,GCM_t_502,Bredd_156,F_Hogst_225,B_Forbjuden_fardriktning,Motorvag,Vagtr_474,TO_MEASURE,Vagnr_10370,konst_190,Vagha_6,FROM_MEASURE,Vagha_7,Vagde_10379,ROUTE_ID,TS_klass,F_Forbjuden_fardriktning,OBJECTID,C_Rekommenderad_bilvag_for_c,Shape_Length,Slitl_152,fme_pcre_match,"^fme_$(AttributeKeeper_2_89fa9e00_9ec2_4cc2_a939_4e4251688f5a6_LIST_EXP)")         }
 # -------------------------------------------------------------------------
 INCLUDE [    puts {DEFAULT_MACRO FeatureWriterDataset_FeatureWriter @EvaluateExpression(FDIV,STRING_ENCODED,$(FeatureWriter_DATASET$encode),FeatureWriter)}; ]
-FACTORY_DEF * WriterFactory    FACTORY_NAME FeatureWriter    WRITER_TYPE GEOPACKAGE    WRITER_DATASET "$(FeatureWriterDataset_FeatureWriter)"    WRITER_SETTINGS "RUNTIME_MACROS,OVERWRITE_DATASET<comma>YES<comma>DATASET_TEMPLATE<comma><comma>GEOPACKAGE_WRT_ADV_PARM<comma>FME_DISCLOSURE_OPEN<comma>TRANSACTION_SIZE<comma>10000<comma>DESTINATION_DATASETTYPE_VALIDATION<comma>Yes<comma>COORDINATE_SYSTEM_GRANULARITY<comma>FEATURE_TYPE<comma>ENCODE_FEATURE_TYPE_AND_ATTR_NAMES<comma>YES<comma>WRITE_NULLS<comma>YES,METAFILE,GEOPACKAGE"    WRITER_METAFILE "ATTRIBUTE_CASE,ANY,ATTRIBUTE_INVALID_CHARS,<backslash><backslash><quote><opencurly><closecurly><openparen><closeparen><apos><comma><at><amp>`~!#<dollar>%^*+-=|<openbracket><closebracket>:<semicolon><lt><gt>?.<solidus>,ATTRIBUTE_LENGTH,256,ATTR_TYPE_MAP,text<comma>fme_buffer<comma>text<comma>fme_xml<comma>text<comma>fme_json<comma>text<openparen>width<closeparen><comma>fme_varchar<openparen>width<closeparen><comma>text<openparen>width<closeparen><comma>fme_char<openparen>width<closeparen><comma>blob<comma>fme_binarybuffer<comma>blob<openparen>width<closeparen><comma>fme_varbinary<openparen>width<closeparen><comma>blob<openparen>width<closeparen><comma>fme_binary<openparen>width<closeparen><comma>date<comma>fme_date<comma>datetime<comma>fme_datetime<comma>datetime<comma>fme_time<comma>float<comma>fme_real32<comma>double<comma>fme_real64<comma>double<comma><quote>fme_decimal<openparen>width<comma>decimal<closeparen><quote><comma>boolean<comma>fme_boolean<comma>tinyint<comma>fme_int8<comma>smallint<comma>fme_int16<comma>smallint<comma>fme_uint8<comma>mediumint<comma>fme_int32<comma>mediumint<comma>fme_uint16<comma>int<comma>fme_int64<comma>int<comma>fme_uint32<comma>text<openparen>20<closeparen><comma>fme_uint64,DEST_ILLEGAL_ATTR_LIST,,FEATURE_TYPE_CASE,ANY,FEATURE_TYPE_INVALID_CHARS,<backslash><backslash><quote><opencurly><closecurly><openparen><closeparen><apos><comma><at><amp>`~!#<dollar>%^*+-=|<openbracket><closebracket>:<semicolon><lt><gt>?.<solidus>,FEATURE_TYPE_LENGTH,256,FEATURE_TYPE_LENGTH_INCLUDES_PREFIX,false,FEATURE_TYPE_RESERVED_WORDS,sqlite_sequence<comma>gpkg_contents<comma>gpkg_spatial_ref_sys<comma>gpkg_geometry_columns,FORMAT_METAFILE,$(FME_HOME_ENCODED)metafile<solidus>GEOPACKAGE.fmf,FORMAT_NAME,GEOPACKAGE,GEOM_MAP,wkb_multi_point_xyzm<comma>fme_point<comma>wkb_multi_point_xyz<comma>fme_point<comma>wkb_multi_point_xym<comma>fme_point<comma>wkb_multi_point<comma>fme_point<comma>wkb_point_xyzm<comma>fme_point<comma>wkb_point_xyz<comma>fme_point<comma>wkb_point_xym<comma>fme_point<comma>wkb_point<comma>fme_point<comma>wkb_point_xyzm<comma>fme_text<comma>wkb_multi_line_xyzm<comma>fme_line<comma>wkb_multi_line_xyz<comma>fme_line<comma>wkb_multi_line_xym<comma>fme_line<comma>wkb_multi_line<comma>fme_line<comma>wkb_multi_curve_xyzm<comma>fme_line<comma>wkb_multi_curve_xyz<comma>fme_line<comma>wkb_multi_curve_xym<comma>fme_line<comma>wkb_multi_curve<comma>fme_line<comma>wkb_line_xyzm<comma>fme_line<comma>wkb_line_xyz<comma>fme_line<comma>wkb_line_xym<comma>fme_line<comma>wkb_line<comma>fme_line<comma>wkb_compound_curve_xyzm<comma>fme_line<comma>wkb_compound_curve_xyz<comma>fme_line<comma>wkb_compound_curve_xym<comma>fme_line<comma>wkb_compound_curve<comma>fme_line<comma>wkb_circular_string_xyzm<comma>fme_arc<comma>wkb_circular_string_xyz<comma>fme_arc<comma>wkb_circular_string_xym<comma>fme_arc<comma>wkb_circular_string<comma>fme_arc<comma>wkb_line_xyzm<comma>fme_solid<comma>wkb_line_xyzm<comma>fme_surface<comma>wkb_multi_polygon_xyzm<comma>fme_polygon<comma>wkb_multi_polygon_xyz<comma>fme_polygon<comma>wkb_multi_polygon_xym<comma>fme_polygon<comma>wkb_multi_polygon<comma>fme_polygon<comma>wkb_multi_surface_xyzm<comma>fme_polygon<comma>wkb_multi_surface_xyz<comma>fme_polygon<comma>wkb_multi_surface_xym<comma>fme_polygon<comma>wkb_multi_surface<comma>fme_polygon<comma>wkb_polygon_xyzm<comma>fme_polygon<comma>wkb_polygon_xyz<comma>fme_polygon<comma>wkb_polygon_xym<comma>fme_polygon<comma>wkb_polygon<comma>fme_polygon<comma>wkb_curve_polygon_xyzm<comma>fme_polygon<comma>wkb_curve_polygon_xyz<comma>fme_polygon<comma>wkb_curve_polygon_xym<comma>fme_polygon<comma>wkb_curve_polygon<comma>fme_polygon<comma>wkb_curve_polygon_xyzm<comma>fme_ellipse<comma>wkb_polygon_xyzm<comma>fme_rectangle<comma>wkb_polygon_xyzm<comma>fme_rounded_rectangle<comma>wkb_polygon_xyzm<comma>fme_raster<comma>wkb_polygon_xyzm<comma>fme_point_cloud<comma>wkb_geometry_collection_xyzm<comma>fme_collection<comma>wkb_geometry_collection_xyz<comma>fme_collection<comma>wkb_geometry_collection_xym<comma>fme_collection<comma>wkb_geometry_collection<comma>fme_collection<comma>wkb_geometry<comma>fme_no_geom<comma>wkb_none<comma>fme_no_geom<comma>wkb_geometry<comma>fme_feature_table,READER_ATTR_INDEX_TYPES,Indexed,SOURCE,no,SUPPORTS_FEAT_TYPE_FANOUT,yes,SUPPORTS_MULTI_GEOM,yes,WORKBENCH_CANNED_SCHEMA,,WRITER,GEOPACKAGE,WRITER_ATTR_INDEX_TYPES,Indexed,WRITER_DEFLINE_PARMS,<quote>GUI<space>NAMEDGROUP<space>fme_configuration_group<space>fme_configuration_common_group%fme_spatial_group%fme_advanced_group%oracle_advanced_group<space>Table<quote><comma><comma><quote>GUI<space>NAMEDGROUP<space>fme_configuration_common_group<space>fme_feature_operation%fme_table_handling%mie_pack%oracle_model%fme_update_geometry%fme_selection_group%fme_table_creation_group<space>General<quote><comma><comma><quote>GUI<space>ACTIVECHOICE_LOOKUP<space>fme_feature_operation<space>Insert<comma>INSERT<comma>fme_update_geometry<comma>fme_selection_group%Update<comma>UPDATE<comma>++fme_table_handling+USE_EXISTING<comma>++fme_selection_group+FME_DISCLOSURE_OPEN%Delete<comma>DELETE<comma>++fme_table_handling+USE_EXISTING<comma>fme_update_geometry<comma>++fme_selection_group+FME_DISCLOSURE_OPEN<comma>fme_spatial_group<comma>fme_advanced_group<comma>oracle_sequenced_cols%<lt>at<gt>Value<lt>openparen<gt>fme_db_operation<lt>closeparen<gt><comma>MULTIPLE<comma>++fme_table_handling+USE_EXISTING<comma>++fme_selection_group+FME_DISCLOSURE_OPEN<space>Feature<space>Operation<quote><comma>INSERT<comma><quote>GUI<space>ACTIVECHOICE_LOOKUP<space>fme_table_handling<space>Use<lt>space<gt>Existing<comma>USE_EXISTING<comma>fme_table_creation_group%Create<lt>space<gt>If<lt>space<gt>Needed<comma>CREATE_IF_MISSING%Drop<lt>space<gt>and<lt>space<gt>Create<comma>DROP_CREATE<space>Table<space>Handling<quote><comma>CREATE_IF_MISSING<comma><quote>GUI<space>DISCLOSUREGROUP<space>fme_selection_group<space>fme_match_id_attribute<space>Row<space>Selection<quote><comma><comma><quote>GUI<space>WHOLE_LINE<space>ATTR<space>fme_match_id_attribute<space>ID<space>Attribute<quote><comma>geopackage_fid<comma><quote>GUI<space>DISCLOSUREGROUP<space>fme_table_creation_group<space>geopackage_primary_index_column%geopackage_create_spatial_table<space>Table<space>Creation<space>Parameters<quote><comma><comma><quote>GUI<space>OPTIONAL<space>TEXT_ENCODED<space>geopackage_primary_index_column<space>Primary<space>Index<space>Column<quote><comma>id<comma><quote>GUI<space>ACTIVEDISCLOSUREGROUP<space>geopackage_create_spatial_table<space>geopackage_geometry_column%geopackage_create_spatial_index<space>Spatial<quote><comma>YES<comma><quote>GUI<space>OPTIONAL<space>TEXT_ENCODED<space>geopackage_geometry_column<space>Spatial<space>Column<quote><comma>geom<comma><quote>GUI<space>CHOICE<space>geopackage_create_spatial_index<space>Yes%No<space>Create<space>Spatial<space>Index<quote><comma>Yes,WRITER_DEF_LINE_TEMPLATE,<opencurly>FME_GEN_GROUP_NAME<closecurly><comma>geopackage_type<comma><opencurly>FME_GEN_GEOMETRY<closecurly><comma>fme_feature_operation<comma>INSERT<comma>fme_table_handling<comma>CREATE_IF_MISSING<comma>fme_selection_method<comma>MATCH_ID<comma>fme_match_id_attribute<comma><quote><quote><quote>geopackage_fid<quote><quote><quote><comma>geopackage_create_spatial_table<comma>YES<comma>geopackage_geometry_column<comma>geom<comma>geopackage_primary_index_column<comma>id<comma>geopackage_create_spatial_index<comma>YES,WRITER_FORMAT_PARAMETER,ADVANCED_PARMS<comma>GEOPACKAGE_OUT_TRANSACTION_SIZE<comma>ALLOW_DATASET_CONFLICT<comma>YES<comma>DATASET_NAME<comma><quote>GeoPackage<space>file<quote><comma>FEATURE_TYPE_NAME<comma>Table<comma>FEATURE_TYPE_DEFAULT_NAME<comma>Table1<comma>READER_DATASET_HINT<comma><quote>Select<space>the<space>GeoPackage<space>file<openparen>s<closeparen><quote><comma>WRITER_DATASET_HINT<comma><quote>Specify<space>a<space>name<space>for<space>the<space>GeoPackage<space>file<quote><comma>ATTRIBUTE_READING<comma>DEFLINE,WRITER_HAS_DEFLINE_ATTRS,yes"    WRITER_FEATURE_TYPES "network:Output,ftp_feature_type_name,network,ftp_writer,GEOPACKAGE,ftp_dynamic_schema,no,ftp_dynamic_feature_type_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_geometry_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_def_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_sources,<lt>lt<gt>Unused<lt>gt<gt>,ftp_attribute_source,1,ftp_user_attributes,OBJECTID<comma>mediumint<comma>ROUTE_ID<comma>text<lt>openparen<gt>20<lt>closeparen<gt><comma>FROM_MEASURE<comma>double<comma>TO_MEASURE<comma>double<comma>Motortrafikled<comma>smallint<comma>Motorvag<comma>smallint<comma>konst_190<comma>text<lt>openparen<gt>23<lt>closeparen<gt><comma>C_Cykelled<comma>mediumint<comma>C_Rekommenderad_bilvag_for_c<comma>mediumint<comma>Vagde_10379<comma>int<comma>Vagnr_10370<comma>int<comma>Klass_181<comma>smallint<comma>Farjeled<comma>smallint<comma>Namn_130<comma>text<lt>openparen<gt>2000<lt>closeparen<gt><comma>GCM_t_502<comma>mediumint<comma>F_Hogst_225<comma>mediumint<comma>B_Hogst_225<comma>mediumint<comma>Slitl_152<comma>text<lt>openparen<gt>6<lt>closeparen<gt><comma>ADT_f_117<comma>int<comma>Bredd_156<comma>float<comma>Vagha_7<comma>text<lt>openparen<gt>2000<lt>closeparen<gt><comma>Vagha_6<comma>text<lt>openparen<gt>8<lt>closeparen<gt><comma>Vagtr_474<comma>mediumint<comma>Shape_Length<comma>double<comma>TS_klass<comma>text<lt>openparen<gt>2<lt>closeparen<gt>,ftp_user_attribute_values,<comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma>,ftp_format_parameters,fme_configuration_group<comma><comma>fme_configuration_common_group<comma><comma>fme_feature_operation<comma>INSERT<comma>fme_table_handling<comma>DROP_CREATE<comma>fme_selection_group<comma><comma>fme_match_id_attribute<comma><lt>lt<gt>Unused<lt>gt<gt><comma>fme_table_creation_group<comma>FME_DISCLOSURE_OPEN<comma>geopackage_primary_index_column<comma>id<comma>geopackage_create_spatial_table<comma>YES<comma>geopackage_geometry_column<comma>geom<comma>geopackage_create_spatial_index<comma>Yes"    WRITER_PARAMS "COORDINATE_SYSTEM_GRANULARITY,FEATURE_TYPE,OVERWRITE_DATASET,YES,DESTINATION_DATASETTYPE_VALIDATION,Yes,GEOPACKAGE_WRT_ADV_PARM,FME_DISCLOSURE_OPEN,ENCODE_FEATURE_TYPE_AND_ATTR_NAMES,YES,TRANSACTION_SIZE,10000,WRITE_NULLS,YES"    WRITER_COORDSYS "EPSG:3006"    DATASET_ATTR "_dataset"    FEATURE_TYPE_LIST_ATTR "_feature_type"    TOTAL_FEATURES_WRITTEN_ATTR "_total_features_written"    OUTPUT_PORTS ""    INPUT Output FEATURE_TYPE AttributeKeeper_2_OUTPUT  @FeatureType(ENCODED,network)    OUTPUT SUMMARY FEATURE_TYPE FeatureWriter_SUMMARY
+FACTORY_DEF * WriterFactory    FACTORY_NAME FeatureWriter    WRITER_TYPE GEOPACKAGE    WRITER_DATASET "$(FeatureWriterDataset_FeatureWriter)"    WRITER_SETTINGS "RUNTIME_MACROS,OVERWRITE_DATASET<comma>YES<comma>DATASET_TEMPLATE<comma><comma>GEOPACKAGE_WRT_ADV_PARM<comma>FME_DISCLOSURE_OPEN<comma>TRANSACTION_SIZE<comma>10000<comma>DESTINATION_DATASETTYPE_VALIDATION<comma>Yes<comma>COORDINATE_SYSTEM_GRANULARITY<comma>FEATURE_TYPE<comma>ENCODE_FEATURE_TYPE_AND_ATTR_NAMES<comma>YES<comma>WRITE_NULLS<comma>YES,METAFILE,GEOPACKAGE"    WRITER_METAFILE "ATTRIBUTE_CASE,ANY,ATTRIBUTE_INVALID_CHARS,<backslash><backslash><quote><opencurly><closecurly><openparen><closeparen><apos><comma><at><amp>`~!#<dollar>%^*+-=|<openbracket><closebracket>:<semicolon><lt><gt>?.<solidus>,ATTRIBUTE_LENGTH,256,ATTR_TYPE_MAP,text<comma>fme_buffer<comma>text<comma>fme_xml<comma>text<comma>fme_json<comma>text<openparen>width<closeparen><comma>fme_varchar<openparen>width<closeparen><comma>text<openparen>width<closeparen><comma>fme_char<openparen>width<closeparen><comma>blob<comma>fme_binarybuffer<comma>blob<openparen>width<closeparen><comma>fme_varbinary<openparen>width<closeparen><comma>blob<openparen>width<closeparen><comma>fme_binary<openparen>width<closeparen><comma>date<comma>fme_date<comma>datetime<comma>fme_datetime<comma>datetime<comma>fme_time<comma>float<comma>fme_real32<comma>double<comma>fme_real64<comma>double<comma><quote>fme_decimal<openparen>width<comma>decimal<closeparen><quote><comma>boolean<comma>fme_boolean<comma>tinyint<comma>fme_int8<comma>smallint<comma>fme_int16<comma>smallint<comma>fme_uint8<comma>mediumint<comma>fme_int32<comma>mediumint<comma>fme_uint16<comma>int<comma>fme_int64<comma>int<comma>fme_uint32<comma>text<openparen>20<closeparen><comma>fme_uint64,DEST_ILLEGAL_ATTR_LIST,,FEATURE_TYPE_CASE,ANY,FEATURE_TYPE_INVALID_CHARS,<backslash><backslash><quote><opencurly><closecurly><openparen><closeparen><apos><comma><at><amp>`~!#<dollar>%^*+-=|<openbracket><closebracket>:<semicolon><lt><gt>?.<solidus>,FEATURE_TYPE_LENGTH,256,FEATURE_TYPE_LENGTH_INCLUDES_PREFIX,false,FEATURE_TYPE_RESERVED_WORDS,sqlite_sequence<comma>gpkg_contents<comma>gpkg_spatial_ref_sys<comma>gpkg_geometry_columns,FORMAT_METAFILE,$(FME_HOME_ENCODED)metafile<solidus>GEOPACKAGE.fmf,FORMAT_NAME,GEOPACKAGE,GEOM_MAP,wkb_multi_point_xyzm<comma>fme_point<comma>wkb_multi_point_xyz<comma>fme_point<comma>wkb_multi_point_xym<comma>fme_point<comma>wkb_multi_point<comma>fme_point<comma>wkb_point_xyzm<comma>fme_point<comma>wkb_point_xyz<comma>fme_point<comma>wkb_point_xym<comma>fme_point<comma>wkb_point<comma>fme_point<comma>wkb_point_xyzm<comma>fme_text<comma>wkb_multi_line_xyzm<comma>fme_line<comma>wkb_multi_line_xyz<comma>fme_line<comma>wkb_multi_line_xym<comma>fme_line<comma>wkb_multi_line<comma>fme_line<comma>wkb_multi_curve_xyzm<comma>fme_line<comma>wkb_multi_curve_xyz<comma>fme_line<comma>wkb_multi_curve_xym<comma>fme_line<comma>wkb_multi_curve<comma>fme_line<comma>wkb_line_xyzm<comma>fme_line<comma>wkb_line_xyz<comma>fme_line<comma>wkb_line_xym<comma>fme_line<comma>wkb_line<comma>fme_line<comma>wkb_compound_curve_xyzm<comma>fme_line<comma>wkb_compound_curve_xyz<comma>fme_line<comma>wkb_compound_curve_xym<comma>fme_line<comma>wkb_compound_curve<comma>fme_line<comma>wkb_circular_string_xyzm<comma>fme_arc<comma>wkb_circular_string_xyz<comma>fme_arc<comma>wkb_circular_string_xym<comma>fme_arc<comma>wkb_circular_string<comma>fme_arc<comma>wkb_line_xyzm<comma>fme_solid<comma>wkb_line_xyzm<comma>fme_surface<comma>wkb_multi_polygon_xyzm<comma>fme_polygon<comma>wkb_multi_polygon_xyz<comma>fme_polygon<comma>wkb_multi_polygon_xym<comma>fme_polygon<comma>wkb_multi_polygon<comma>fme_polygon<comma>wkb_multi_surface_xyzm<comma>fme_polygon<comma>wkb_multi_surface_xyz<comma>fme_polygon<comma>wkb_multi_surface_xym<comma>fme_polygon<comma>wkb_multi_surface<comma>fme_polygon<comma>wkb_polygon_xyzm<comma>fme_polygon<comma>wkb_polygon_xyz<comma>fme_polygon<comma>wkb_polygon_xym<comma>fme_polygon<comma>wkb_polygon<comma>fme_polygon<comma>wkb_curve_polygon_xyzm<comma>fme_polygon<comma>wkb_curve_polygon_xyz<comma>fme_polygon<comma>wkb_curve_polygon_xym<comma>fme_polygon<comma>wkb_curve_polygon<comma>fme_polygon<comma>wkb_curve_polygon_xyzm<comma>fme_ellipse<comma>wkb_polygon_xyzm<comma>fme_rectangle<comma>wkb_polygon_xyzm<comma>fme_rounded_rectangle<comma>wkb_polygon_xyzm<comma>fme_raster<comma>wkb_polygon_xyzm<comma>fme_point_cloud<comma>wkb_geometry_collection_xyzm<comma>fme_collection<comma>wkb_geometry_collection_xyz<comma>fme_collection<comma>wkb_geometry_collection_xym<comma>fme_collection<comma>wkb_geometry_collection<comma>fme_collection<comma>wkb_geometry<comma>fme_no_geom<comma>wkb_none<comma>fme_no_geom<comma>wkb_geometry<comma>fme_feature_table,READER_ATTR_INDEX_TYPES,Indexed,SOURCE,no,SUPPORTS_FEAT_TYPE_FANOUT,yes,SUPPORTS_MULTI_GEOM,yes,WORKBENCH_CANNED_SCHEMA,,WRITER,GEOPACKAGE,WRITER_ATTR_INDEX_TYPES,Indexed,WRITER_DEFLINE_PARMS,<quote>GUI<space>NAMEDGROUP<space>fme_configuration_group<space>fme_configuration_common_group%fme_spatial_group%fme_advanced_group%oracle_advanced_group<space>Table<quote><comma><comma><quote>GUI<space>NAMEDGROUP<space>fme_configuration_common_group<space>fme_feature_operation%fme_table_handling%mie_pack%oracle_model%fme_update_geometry%fme_selection_group%fme_table_creation_group<space>General<quote><comma><comma><quote>GUI<space>ACTIVECHOICE_LOOKUP<space>fme_feature_operation<space>Insert<comma>INSERT<comma>fme_update_geometry<comma>fme_selection_group%Update<comma>UPDATE<comma>++fme_table_handling+USE_EXISTING<comma>++fme_selection_group+FME_DISCLOSURE_OPEN%Delete<comma>DELETE<comma>++fme_table_handling+USE_EXISTING<comma>fme_update_geometry<comma>++fme_selection_group+FME_DISCLOSURE_OPEN<comma>fme_spatial_group<comma>fme_advanced_group<comma>oracle_sequenced_cols%<lt>at<gt>Value<lt>openparen<gt>fme_db_operation<lt>closeparen<gt><comma>MULTIPLE<comma>++fme_table_handling+USE_EXISTING<comma>++fme_selection_group+FME_DISCLOSURE_OPEN<space>Feature<space>Operation<quote><comma>INSERT<comma><quote>GUI<space>ACTIVECHOICE_LOOKUP<space>fme_table_handling<space>Use<lt>space<gt>Existing<comma>USE_EXISTING<comma>fme_table_creation_group%Create<lt>space<gt>If<lt>space<gt>Needed<comma>CREATE_IF_MISSING%Drop<lt>space<gt>and<lt>space<gt>Create<comma>DROP_CREATE<space>Table<space>Handling<quote><comma>CREATE_IF_MISSING<comma><quote>GUI<space>DISCLOSUREGROUP<space>fme_selection_group<space>fme_match_id_attribute<space>Row<space>Selection<quote><comma><comma><quote>GUI<space>WHOLE_LINE<space>ATTR<space>fme_match_id_attribute<space>ID<space>Attribute<quote><comma>geopackage_fid<comma><quote>GUI<space>DISCLOSUREGROUP<space>fme_table_creation_group<space>geopackage_primary_index_column%geopackage_create_spatial_table<space>Table<space>Creation<space>Parameters<quote><comma><comma><quote>GUI<space>OPTIONAL<space>TEXT_ENCODED<space>geopackage_primary_index_column<space>Primary<space>Index<space>Column<quote><comma>id<comma><quote>GUI<space>ACTIVEDISCLOSUREGROUP<space>geopackage_create_spatial_table<space>geopackage_geometry_column%geopackage_create_spatial_index<space>Spatial<quote><comma>YES<comma><quote>GUI<space>OPTIONAL<space>TEXT_ENCODED<space>geopackage_geometry_column<space>Spatial<space>Column<quote><comma>geom<comma><quote>GUI<space>CHOICE<space>geopackage_create_spatial_index<space>Yes%No<space>Create<space>Spatial<space>Index<quote><comma>Yes,WRITER_DEF_LINE_TEMPLATE,<opencurly>FME_GEN_GROUP_NAME<closecurly><comma>geopackage_type<comma><opencurly>FME_GEN_GEOMETRY<closecurly><comma>fme_feature_operation<comma>INSERT<comma>fme_table_handling<comma>CREATE_IF_MISSING<comma>fme_selection_method<comma>MATCH_ID<comma>fme_match_id_attribute<comma><quote><quote><quote>geopackage_fid<quote><quote><quote><comma>geopackage_create_spatial_table<comma>YES<comma>geopackage_geometry_column<comma>geom<comma>geopackage_primary_index_column<comma>id<comma>geopackage_create_spatial_index<comma>YES,WRITER_FORMAT_PARAMETER,ADVANCED_PARMS<comma>GEOPACKAGE_OUT_TRANSACTION_SIZE<comma>ALLOW_DATASET_CONFLICT<comma>YES<comma>DATASET_NAME<comma><quote>GeoPackage<space>file<quote><comma>FEATURE_TYPE_NAME<comma>Table<comma>FEATURE_TYPE_DEFAULT_NAME<comma>Table1<comma>READER_DATASET_HINT<comma><quote>Select<space>the<space>GeoPackage<space>file<openparen>s<closeparen><quote><comma>WRITER_DATASET_HINT<comma><quote>Specify<space>a<space>name<space>for<space>the<space>GeoPackage<space>file<quote><comma>ATTRIBUTE_READING<comma>DEFLINE,WRITER_HAS_DEFLINE_ATTRS,yes"    WRITER_FEATURE_TYPES "network:Output,ftp_feature_type_name,network,ftp_writer,GEOPACKAGE,ftp_dynamic_schema,no,ftp_dynamic_feature_type_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_geometry_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_def_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_sources,<lt>lt<gt>Unused<lt>gt<gt>,ftp_attribute_source,1,ftp_user_attributes,OBJECTID<comma>mediumint<comma>F_Forbjuden_fardriktning<comma>smallint<comma>B_Forbjuden_fardriktning<comma>smallint<comma>ROUTE_ID<comma>text<lt>openparen<gt>20<lt>closeparen<gt><comma>FROM_MEASURE<comma>double<comma>TO_MEASURE<comma>double<comma>Motortrafikled<comma>smallint<comma>Motorvag<comma>smallint<comma>konst_190<comma>text<lt>openparen<gt>23<lt>closeparen<gt><comma>C_Cykelled<comma>mediumint<comma>C_Rekommenderad_bilvag_for_c<comma>mediumint<comma>Vagde_10379<comma>int<comma>Vagnr_10370<comma>int<comma>Klass_181<comma>smallint<comma>Farjeled<comma>smallint<comma>Namn_130<comma>text<lt>openparen<gt>2000<lt>closeparen<gt><comma>GCM_t_502<comma>mediumint<comma>F_Hogst_225<comma>mediumint<comma>B_Hogst_225<comma>mediumint<comma>Slitl_152<comma>text<lt>openparen<gt>6<lt>closeparen<gt><comma>ADT_f_117<comma>int<comma>Bredd_156<comma>float<comma>Vagha_7<comma>text<lt>openparen<gt>2000<lt>closeparen<gt><comma>Vagha_6<comma>text<lt>openparen<gt>8<lt>closeparen<gt><comma>Vagtr_474<comma>mediumint<comma>Shape_Length<comma>double<comma>TS_klass<comma>text<lt>openparen<gt>2<lt>closeparen<gt>,ftp_user_attribute_values,<comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma><comma>,ftp_format_parameters,fme_configuration_group<comma><comma>fme_configuration_common_group<comma><comma>fme_feature_operation<comma>INSERT<comma>fme_table_handling<comma>DROP_CREATE<comma>fme_selection_group<comma><comma>fme_match_id_attribute<comma><lt>lt<gt>Unused<lt>gt<gt><comma>fme_table_creation_group<comma>FME_DISCLOSURE_OPEN<comma>geopackage_primary_index_column<comma>id<comma>geopackage_create_spatial_table<comma>YES<comma>geopackage_geometry_column<comma>geom<comma>geopackage_create_spatial_index<comma>Yes"    WRITER_PARAMS "TRANSACTION_SIZE,10000,WRITE_NULLS,YES,DESTINATION_DATASETTYPE_VALIDATION,Yes,COORDINATE_SYSTEM_GRANULARITY,FEATURE_TYPE,GEOPACKAGE_WRT_ADV_PARM,FME_DISCLOSURE_OPEN,OVERWRITE_DATASET,YES,ENCODE_FEATURE_TYPE_AND_ATTR_NAMES,YES"    WRITER_COORDSYS "EPSG:3006"    DATASET_ATTR "_dataset"    FEATURE_TYPE_LIST_ATTR "_feature_type"    TOTAL_FEATURES_WRITTEN_ATTR "_total_features_written"    OUTPUT_PORTS ""    INPUT Output FEATURE_TYPE AttributeKeeper_2_OUTPUT  @FeatureType(ENCODED,network)    OUTPUT SUMMARY FEATURE_TYPE FeatureWriter_SUMMARY
 # -------------------------------------------------------------------------
 FME_PYTHON_PATH "$(FME_MF_DIR)"
 FACTORY_DEF * PythonFactory    FACTORY_NAME PythonCaller    INPUT  FEATURE_TYPE FeatureWriter_SUMMARY    SYMBOL_NAME FeatureProcessor    PYTHON_NAMESPACE FMEOBJECTS    SOURCE_CODE import<space>fme<lf>import<space>fmeobjects<lf>import<space>sqlite3<lf><lf><lf>class<space>FeatureProcessor<openparen>object<closeparen>:<lf><space><space><space><space>def<space>__init__<openparen>self<closeparen>:<lf><space><space><space><space><space><space><space><space>pass<lf><space><space><space><space>def<space>input<openparen>self<comma>feature<closeparen>:<lf><space><space><space><space><space><space><space><space>db_file<space>=<space>feature.getAttribute<openparen><quote>_dataset<quote><closeparen><lf><space><space><space><space><space><space><space><space>with<space>sqlite3.connect<openparen>db_file<closeparen><space>as<space>db:<lf><space><space><space><space><space><space><space><space><space><space><space><space>db.executescript<openparen><quote><quote><quote><lf>CREATE<space>VIEW<space>IF<space>NOT<space>EXISTS<lf><space><space>cykelnat<space><openparen>id<comma>geom<comma>route_id<comma>from_measure<comma>to_measure<comma>ts_klass<closeparen><space>AS<lf>SELECT<space>id<comma>geom<comma>route_id<comma>from_measure<comma>to_measure<comma>ts_klass<lf>FROM<space>network<lf>WHERE<space>vagtr_474<space>=<space>2<semicolon><lf><lf>INSERT<space>OR<space>REPLACE<space>INTO<lf><space><space>gpkg_contents<space><openparen>table_name<comma>data_type<comma>identifier<comma>min_x<comma>min_y<comma>max_x<comma>max_y<comma>srs_id<closeparen><lf>SELECT<space><quote>cykelnat<quote><comma>data_type<comma><quote>cykelnat<quote><comma>min_x<comma>min_y<comma>max_x<comma>max_y<comma>srs_id<lf>FROM<space>gpkg_contents<lf>WHERE<space>identifier<space>=<space><quote>network<quote><semicolon><lf><lf>INSERT<space>OR<space>REPLACE<space>INTO<lf><space><space>gpkg_geometry_columns<space><openparen>table_name<comma>column_name<comma>geometry_type_name<comma>srs_id<comma>z<comma>m<closeparen><lf>SELECT<space><quote>cykelnat<quote><comma><quote>geom<quote><comma>geometry_type_name<comma>srs_id<comma>z<comma>m<lf>FROM<space>gpkg_geometry_columns<lf>WHERE<space>table_name<space>=<space><quote>network<quote><semicolon><lf><quote><quote><quote><closeparen><lf><lf><space><space><space><space><space><space><space><space><space><space><space><space>db.executescript<openparen><quote><quote><quote><lf>CREATE<space>VIEW<space>IF<space>NOT<space>EXISTS<lf><space><space>vagnat<space><openparen>id<comma>geom<comma>route_id<comma>from_measure<comma>to_measure<comma>ts_klass<closeparen><space>AS<lf>SELECT<space>id<comma>geom<comma>route_id<comma>from_measure<comma>to_measure<comma>ts_klass<lf>FROM<space>network<lf>WHERE<space>vagtr_474<space>=<space>1<semicolon><lf><lf>INSERT<space>OR<space>REPLACE<space>INTO<lf><space><space>gpkg_contents<space><openparen>table_name<comma>data_type<comma>identifier<comma>min_x<comma>min_y<comma>max_x<comma>max_y<comma>srs_id<closeparen><lf>SELECT<space><quote>vagnat<quote><comma>data_type<comma><quote>vagnat<quote><comma>min_x<comma>min_y<comma>max_x<comma>max_y<comma>srs_id<lf>FROM<space>gpkg_contents<lf>WHERE<space>identifier<space>=<space><quote>network<quote><semicolon><lf><lf>INSERT<space>OR<space>REPLACE<space>INTO<lf><space><space>gpkg_geometry_columns<space><openparen>table_name<comma>column_name<comma>geometry_type_name<comma>srs_id<comma>z<comma>m<closeparen><lf>SELECT<space><quote>vagnat<quote><comma><quote>geom<quote><comma>geometry_type_name<comma>srs_id<comma>z<comma>m<lf>FROM<space>gpkg_geometry_columns<lf>WHERE<space>table_name<space>=<space><quote>network<quote><semicolon><lf><quote><quote><quote><closeparen><lf><lf><space><space><space><space><space><space><space><space><space><space><space><space>db.executescript<openparen><quote><quote><quote><lf>CREATE<space>VIEW<space>IF<space>NOT<space>EXISTS<lf><space><space>bro_tunnel<space><openparen>id<comma>geom<comma>route_id<comma>from_measure<comma>to_measure<comma>ts_klass<closeparen><space>AS<lf>SELECT<space>id<comma>geom<comma>route_id<comma>from_measure<comma>to_measure<comma>ts_klass<lf>FROM<space>network<lf>WHERE<space>konst_190<space>LIKE<space><quote>%fart<quote><semicolon><lf><lf>INSERT<space>OR<space>REPLACE<space>INTO<lf><space><space>gpkg_contents<space><openparen>table_name<comma>data_type<comma>identifier<comma>min_x<comma>min_y<comma>max_x<comma>max_y<comma>srs_id<closeparen><lf>SELECT<space><quote>bro_tunnel<quote><comma>data_type<comma><quote>bro_tunnel<quote><comma>min_x<comma>min_y<comma>max_x<comma>max_y<comma>srs_id<lf>FROM<space>gpkg_contents<lf>WHERE<space>identifier<space>=<space><quote>network<quote><semicolon><lf><lf>INSERT<space>OR<space>REPLACE<space>INTO<lf><space><space>gpkg_geometry_columns<space><openparen>table_name<comma>column_name<comma>geometry_type_name<comma>srs_id<comma>z<comma>m<closeparen><lf>SELECT<space><quote>bro_tunnel<quote><comma><quote>geom<quote><comma>geometry_type_name<comma>srs_id<comma>z<comma>m<lf>FROM<space>gpkg_geometry_columns<lf>WHERE<space>table_name<space>=<space><quote>network<quote><semicolon><lf><quote><quote><quote><closeparen><lf><lf><space><space><space><space><space><space><space><space><space><space><space><space>db.executescript<openparen><quote><quote><quote><lf>CREATE<space>VIEW<space>IF<space>NOT<space>EXISTS<lf><space><space>farjeled<space><openparen>id<comma>geom<comma>route_id<comma>from_measure<comma>to_measure<comma>ts_klass<closeparen><space>AS<lf>SELECT<space>id<comma>geom<comma>route_id<comma>from_measure<comma>to_measure<comma>ts_klass<lf>FROM<space>network<lf>WHERE<space>farjeled<space>=<space>1<semicolon><lf><lf>INSERT<space>OR<space>REPLACE<space>INTO<lf><space><space>gpkg_contents<space><openparen>table_name<comma>data_type<comma>identifier<comma>min_x<comma>min_y<comma>max_x<comma>max_y<comma>srs_id<closeparen><lf>SELECT<space><quote>farjeled<quote><comma>data_type<comma><quote>farjeled<quote><comma>min_x<comma>min_y<comma>max_x<comma>max_y<comma>srs_id<lf>FROM<space>gpkg_contents<lf>WHERE<space>identifier<space>=<space><quote>network<quote><semicolon><lf><lf>INSERT<space>OR<space>REPLACE<space>INTO<lf><space><space>gpkg_geometry_columns<space><openparen>table_name<comma>column_name<comma>geometry_type_name<comma>srs_id<comma>z<comma>m<closeparen><lf>SELECT<space><quote>farjeled<quote><comma><quote>geom<quote><comma>geometry_type_name<comma>srs_id<comma>z<comma>m<lf>FROM<space>gpkg_geometry_columns<lf>WHERE<space>table_name<space>=<space><quote>network<quote><semicolon><lf><quote><quote><quote><closeparen><lf><space><space><space><space><space><space><space><space>self.pyoutput<openparen>feature<closeparen><lf><space><space><space><space>def<space>close<openparen>self<closeparen>:<lf><space><space><space><space><space><space><space><space>pass    OUTPUT PYOUTPUT FEATURE_TYPE PythonCaller_OUTPUT
