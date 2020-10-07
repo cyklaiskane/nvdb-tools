@@ -46,7 +46,7 @@ SELECT setval('nvdb_skane_network_objectid_seq', (SELECT max(objectid) + 1 FROM 
 
 INSERT INTO nvdb_skane_network (geom, objectid, route_id, from_measure, to_measure)
 SELECT
-  ST_Transform(ST_LineMerge(ST_Force2D(net.shape)), 3006) as geom,
+  ST_Transform(ST_LineMerge(ST_Force2D(net.wkb_geometry)), 3006) as geom,
   net.objectid,
   net.reflink_oid,
   net.from_measure,
