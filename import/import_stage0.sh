@@ -1,5 +1,6 @@
 #!/bin/bash
 
+set -euxo pipefail
 
 ogrinfo -ro -q 12_Skåne_län.gdb | while read i l t; do
   ogr2ogr -f PostgreSQL PG:"dbname=gis" 12_Skåne_län.gdb -nlt PROMOTE_TO_MULTI -nln nvdb_skane_$l $l -progress -overwrite --config PG_USE_COPY YES

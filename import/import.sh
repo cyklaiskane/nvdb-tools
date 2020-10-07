@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euxo pipefail
+
 psql gis < nvdb_import_stage1.sql
 
 for tbl in $(sed -n 's/.*\(nvdb_skane_tne_ft_\w*\).*/\1/p' nvdb_import_stage3.sql); do
