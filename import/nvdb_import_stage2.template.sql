@@ -8,7 +8,7 @@ WITH segments AS (
   SELECT
     objectid,
     split AS _from,
-    lead(split) OVER (PARTITION BY objectid ORDER By split) AS _to
+    lead(split) OVER (PARTITION BY objectid ORDER BY split) AS _to
   FROM (
     -- Filter out similar points. This extra level with DISTINCT ON (...) is
     -- used instead of UNION DISTINCT as the from/to values are float and as

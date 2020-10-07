@@ -75,7 +75,7 @@ UPDATE nvdb_skane_network net
 SET
   max_speed = CASE residential WHEN TRUE THEN 50 ELSE 70 END
 WHERE
-  road_type = 1 AND max_speed IS NULL
+  road_type = 1 AND max_speed IS NULL;
 
 
 
