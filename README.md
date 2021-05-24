@@ -4,9 +4,10 @@ This repository contains various scripts, templates, and styles to process and c
 
 ## Prerequisites
 
-- NVDB GDB file for Region Skåne
-- SCB "Tätorter" Shapefile
-- Trv "Sommar dygnstrafik XLSX" file
+- NVDB homogenized GDB file for Skåne county from Lastkajen (Trafikverket), including all data products listed in the FME workspace cyklaiskane.fmw.
+- NVDB shapefile with data product Traffic from Lastkajen (Trafikverket,see FME workspace for more details).
+- SCB "Tätorter" Shapefile, including population information for each city.
+- "Sommar dygnstrafik XLSX" file from Trafikverket with information to convert ÅDT (årsdygnstrafik) to SDT (sommardygnstrafik).
 - GDAL tools
   - ogrinfo
   - ogr2ogr
